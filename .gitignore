@@ -1,0 +1,25 @@
+# Obsidian workspace and cache files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Personal settings (keep these local)
+.obsidian/workspace
+.obsidian/hotkeys.json
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+~$*
+
+# Quartz build output
+public/
+.quartz-cache/
+node_modules/
+
+# Quartz source (cloned repository)
+.quartz/
