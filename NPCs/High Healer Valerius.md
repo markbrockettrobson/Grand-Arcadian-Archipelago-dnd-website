@@ -1,8 +1,10 @@
 ---
 draft: false
 publish: true
-tags: [Npc, Faction Leader]
-type: pc
+tags:
+  - Npc
+  - FactionLeader
+type: Npc
 faction: "[[The Hands of the Everlight]]"
 ---
 
