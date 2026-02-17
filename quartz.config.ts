@@ -1,5 +1,5 @@
-import { QuartzConfig } from "./quartz/cfg"
-import * as Plugin from "./quartz/plugins"
+import { QuartzConfig } from "./quartz/cfg";
+import * as Plugin from "./quartz/plugins";
 
 /**
  * Quartz 4.0 Configuration
@@ -19,11 +19,12 @@ const config: QuartzConfig = {
     ignorePatterns: [
       "private",
       "templates",
-      "Templates",  // Exclude Templates folder
+      "Templates", // Exclude Templates folder
       ".obsidian",
-      "DM Notes.md",  // Exclude DM Notes from publishing
-      "**/*Template.md",  // Exclude all template files
-      "QUARTZ_SETUP.md",  // Exclude setup instructions
+      "README.md", // Exclude README from publishing
+      "DM Notes.md", // Exclude DM Notes from publishing
+      "**/*Template.md", // Exclude all template files
+      "QUARTZ_SETUP.md", // Exclude setup instructions
     ],
     defaultDateType: "modified",
     theme: {
@@ -96,6 +97,6 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
     ],
   },
-}
+};
 
-export default config
+export default config;

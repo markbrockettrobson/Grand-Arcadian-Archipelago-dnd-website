@@ -2,9 +2,8 @@
 draft: false
 publish: true
 tags: []
-created: {{date}}
-modified: {{date}}
+created: { { date } }
+modified: { { date } }
 ---
 
 # {{title}}
-
