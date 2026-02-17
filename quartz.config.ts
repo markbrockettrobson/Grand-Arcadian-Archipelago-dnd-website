@@ -19,9 +19,9 @@ const config: QuartzConfig = {
     ignorePatterns: [
       "private",
       "templates",
-      "Templates", // Exclude Templates folder
+      "Templates/**", // Exclude Templates folder and all contents
       ".obsidian",
-      "README.md", // Exclude README from publishing
+      "**/README.md", // Exclude README from publishing
       "DM Notes.md", // Exclude DM Notes from publishing
       "**/*Template.md", // Exclude all template files
       "QUARTZ_SETUP.md", // Exclude setup instructions
