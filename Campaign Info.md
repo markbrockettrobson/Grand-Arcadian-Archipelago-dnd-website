@@ -1,3 +1,10 @@
+---
+title: Campaign Information
+draft: false
+publish: true
+tags: [Rules, Campaign]
+---
+
 # Campaign Information
 
 ## The Arcadian Archipelago
@@ -33,9 +40,7 @@ The Arcadian Archipelago is a vast chain of tropical islands located in the dist
 
 ### Additional Rules
 
--
-
----
+- ***
 
 ## Campaign Calendar
 
@@ -46,9 +51,7 @@ The Arcadian Archipelago is a vast chain of tropical islands located in the dist
 
 ## Important Campaign Events
 
--
-
----
+- ***
 
 ## Meta Information
 
