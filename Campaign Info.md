@@ -1,10 +1,11 @@
 # Campaign Information
+
 ## The Arcadian Archipelago
 
 **System:** Pathfinder 2e  
 **Game Master:**  
 **Session Frequency:**  
-**Session Duration:**  
+**Session Duration:**
 
 ---
 
@@ -28,38 +29,41 @@ The Arcadian Archipelago is a vast chain of tropical islands located in the dist
 
 ### Pathfinder 2e Modifications
 
-- 
+-
 
 ### Additional Rules
 
-- 
+-
 
 ---
 
 ## Campaign Calendar
 
 **Current Date:**  
-**Season:**  
+**Season:**
 
 ---
 
 ## Important Campaign Events
 
-- 
+-
 
 ---
 
 ## Meta Information
 
 **Character Creation Guidelines:**
+
 - Starting Level: 1
-- Ability Score Generation: 
-- Allowed Ancestries: 
-- Allowed Classes: 
-- Background Requirements: 
+- Ability Score Generation:
+- Allowed Ancestries:
+- Allowed Classes:
+- Background Requirements:
 
 **Wealth & Equipment:**
+
 - Starting Gold: Standard for Level 1
 
 **Campaign Restrictions:**
-- 
+
+-
