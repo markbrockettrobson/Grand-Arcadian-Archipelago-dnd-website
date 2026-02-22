@@ -32,13 +32,13 @@ Despite spending months at sea, Lord Voss maintains an almost supernatural level
 
 ## Personality
 
-Lord Voss is a study in controlled intensity. In negotiation, he is patient, methodical, and relentlessly reasonable, capable of spending twelve hours debating a single clause without losing his composure. He has an almost supernatural ability to read people, to understand what they truly want beneath what they _say_ they want, and to find the exact compromise that gives everyone just enough to accept without anyone getting everything they desire.
+Lord Voss presents as a study in controlled intensity. In negotiation, he demonstrates remarkable patience and methodical reasoning, capable of spending twelve hours debating a single clause without visible loss of composure. He has shown a consistent ability to broker compromises that give each faction just enough to accept without anyone getting everything they desire a skill some attribute to careful study of those he negotiates with.
 
-He speaks in the measured tones of someone accustomed to having his words recorded for posterity, choosing each phrase with care. When he raises his voice, it is a calculated decision designed for maximum effect and those who have witnessed his rare displays of controlled anger describe them as far more terrifying than any screaming tantrum.
+He speaks in measured tones, choosing each phrase with obvious care, as though aware his words may be recorded for posterity. On the rare occasions when he raises his voice, the effect is striking those who have witnessed these controlled displays of anger describe them as far more impactful than any shouting match.
 
-His charisma is undeniable but of a particular flavor: he does not inspire passionate loyalty or fiery devotion, but rather a sense of competence, security, and inevitable progress. People trust him not because they love him, but because he has never failed to deliver exactly what he promised, when he promised it, to the exact specifications agreed upon.
+His charisma is undeniable but of a particular flavor: he does not inspire passionate loyalty or fiery devotion, but rather conveys competence, security, and a sense of inevitable progress. People appear to trust him not out of personal affection, but because he has consistently delivered what he promised, when he promised it, to the exact specifications agreed upon.
 
-However, beneath the diplomatic veneer lies a man driven by genuine idealism, even if it is the cold pragmatic idealism of someone who has seen empires fall to chaos and wants desperately to build something that will _last_. He genuinely believes that law, order, and proper procedure are the highest forms of mercy, that a well-written treaty saves more lives than a hundred acts of individual charity.
+His public speeches emphasize that proper procedure and lawful frameworks are "the highest forms of mercy," arguing that well-written treaties save more lives than individual acts of charity. Whether this represents genuine idealism or sophisticated rhetoric to justify Absalom's control remains a matter of debate among those who work with him. Some who have served with Voss for years believe he truly is driven by a vision of building lasting institutions; others suspect his idealism conveniently aligns with Absalom's interests.
 
 ## Relationship to Party
 

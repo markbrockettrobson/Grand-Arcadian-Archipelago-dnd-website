@@ -23,13 +23,13 @@ A slender half-elf in his thirties with elegant features and kind, patient eyes.
 
 ## Personality
 
-Kaelen is the calm after Valerius's storm. He possesses the patience and diplomatic grace that his superior lacks. Where Valerius burns with righteous fury, Kaelen is steady, pragmatic determination.
+Kaelen presents as the calm after Valerius's storm. He demonstrates the patience and diplomatic grace that his superior conspicuously lacks. Where Valerius burns with righteous fury, Kaelen offers steady, pragmatic engagement.
 
-He understands and even shares Valerius's moral anger the delays were unconscionable, and the profiteering is disgusting. However, he also recognizes the hard truth: without the "bloated flotilla" and all its political baggage, they would have no ships, no supplies, and no way to actually reach those who need help.
+While he has never publicly contradicted Valerius's moral arguments about the delays being unconscionable or the profiteering being disgusting, his approach to addressing these concerns differs dramatically. In council meetings and private conversations, he acknowledges the validity of her anger while also noting the practical reality: without the "bloated flotilla" and all its political complications, The Hands would have no ships, no supplies, and no way to actually reach those who need help.
 
-Kaelen is a masterful diplomat, skilled at reframing Valerius's confrontational statements as "passionate concern" and her accusations as "valid points worth considering." He walks into rooms five minutes after she's stormed out, offering apologies and turning bridges she's burned into merely scorched but salvageable relationships.
+Kaelen has proven himself a masterful diplomat, skilled at reframing Valerius's confrontational statements as "passionate concern" and her accusations as "valid points worth considering." He is frequently observed walking into rooms five minutes after she's stormed out, offering apologies and mending relationships she's damaged. His ability to salvage bridges Valerius burns has become something of a running pattern in the flotilla.
 
-Despite his diplomatic nature, he is not weak or obsequious. He genuinely believes in working within systems to achieve goals, even if those systems are flawed.
+Despite his diplomatic nature, he is not weak or merely obsequious. When pressed, he defends The Hands' positions firmly, and his arguments for working within established systems to achieve goals appear to reflect genuine conviction rather than mere political expedience.
 
 ---
 
