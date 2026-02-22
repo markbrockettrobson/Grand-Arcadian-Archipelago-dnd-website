@@ -14,19 +14,19 @@ Most of the reputable factions treat her with open disdain. [[The Hands of the E
 
 Captain Marlowe has successfully piloted her ship through the Arcadian seas **three times**, each expedition bringing back plunder and tales of danger that proved both the challenges and the opportunities of the islands. No captain currently in the Inner Sea can claim a comparable record. Her knowledge of the treacherous currents, hidden reefs, and navigable passages is demonstrably irreplaceable. The Assembly knows this. Lord Voss knows this. And Captain Marlowe's negotiating position suggests she knows they know.
 
-She is being paid very well for offering her "advisory services" to the flotilla rumors suggest her compensation would make most merchant houses blanch. She seldom uses her seat at the council table, often appearing bored during lengthy procedural debates. Why waste time arguing over territorial frameworks when you're being compensated handsomely just to show up? While [[Lord Arbitrator Hadrian Voss]] works to craft his legacy through bureaucratic frameworks, Marlowe appears focused on simpler priorities: get paid, survive, and ensure the stories spread.
+She is being paid very well for offering her "advisory services" to the flotilla rumors suggest her compensation would make most merchant houses blanch. She seldom uses her seat at the council table, often appearing bored during lengthy procedural debates. Why waste time arguing over territorial frameworks when you're being compensated handsomely just to show up? While [[NPCs/Flotilla/Assembly of Accord/Lord Arbitrator Hadrian Voss|Lord Arbitrator Hadrian Voss]] works to craft his legacy through bureaucratic frameworks, Marlowe appears focused on simpler priorities: get paid, survive, and ensure the stories spread.
 
-Speaking of which, her first mate is exactly that **[[Bastian Vale]]**, a bard whose sole responsibility is chronicling Captain Marlowe's exploits in increasingly dramatic verse. The rest of the council finds this absurd. Marlowe finds it essential branding.
+Speaking of which, her first mate is exactly that **[[NPCs/Flotilla/The Red Wake/Bastian Vale|Bastian Vale]]**, a bard whose sole responsibility is chronicling Captain Marlowe's exploits in increasingly dramatic verse. The rest of the council finds this absurd. Marlowe finds it essential branding.
 
-Even [[Admiral Lysandra Korvus]], who barely conceals her contempt for the captain's mercenary ethics, has acknowledged Marlowe's navigational skill. While the Admiral clearly dislikes Marlowe's approach to professional ethics, she has stated publicly that Marlowe's knowledge of Arcadian waters "may prove essential to the flotilla's success." The two maintain a relationship of professional necessity they will likely never be friends, but they appear to recognize competence when they see it.
+Even [[NPCs/Flotilla/Assembly of Accord/Admiral Lysandra Korvus|Admiral Lysandra Korvus]], who barely conceals her contempt for the captain's mercenary ethics, has acknowledged Marlowe's navigational skill. While the Admiral clearly dislikes Marlowe's approach to professional ethics, she has stated publicly that Marlowe's knowledge of Arcadian waters "may prove essential to the flotilla's success." The two maintain a relationship of professional necessity they will likely never be friends, but they appear to recognize competence when they see it.
 
 > _"The council can vote to censure me, fine me, or formally condemn my 'lack of decorum.' But they can't dismiss me. Three successful crossings buys a lot of tolerance for bad behavior and I intend to test exactly how much."_ **- Captain Serafina Marlowe**
 
 ### Notable NPCs
 
-- **[[Captain Serafina Marlowe]]**: The "Red Wake" herself, legendary pilot and unapologetic opportunist. Three-time veteran of Arcadian waters,currently being paid a small fortune to share her navigational expertise while enjoying the schadenfreude of watching bureaucrats argue.
+- **[[NPCs/Flotilla/The Red Wake/Captain Serafina Marlowe|Captain Serafina Marlowe]]**: The "Red Wake" herself, legendary pilot and unapologetic opportunist. Three-time veteran of Arcadian waters,currently being paid a small fortune to share her navigational expertise while enjoying the schadenfreude of watching bureaucrats argue.
 
-- **[[Bastian Vale]]**: First mate, bard, and professional chronicler of Captain Marlowe's exploits. His job is to make sure every tavern from here to Absalom knows exactly who piloted through the Widow's Teeth in a storm and lived to boast about it.
+- **[[NPCs/Flotilla/The Red Wake/Bastian Vale|Bastian Vale]]**: First mate, bard, and professional chronicler of Captain Marlowe's exploits. His job is to make sure every tavern from here to Absalom knows exactly who piloted through the Widow's Teeth in a storm and lived to boast about it.
 
 ### Ships and Resources
 
