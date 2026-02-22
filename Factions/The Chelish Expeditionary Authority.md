@@ -93,7 +93,8 @@ Observers note a bitter irony: the Chelish delays have inadvertently prevented t
 
 The Chelish contribution to the flotilla includes:
 
-- **The Rack**: Hellknight warship Heavily armed and crewed by disciplined enforcers, these vessels serve as both military assets and floating fortresses of order.
+- **The Rack**: Order of the Rack warship. Heavily armed and crewed by disciplined Hellknight enforcers, serving as both a military asset and floating fortress of order.
+- **The Chain**: Order of the Chain warship. A sister vessel to The Rack, equally formidable and representing Cheliax's commitment to enforcing legal structures through overwhelming force if necessary.
 - **The Scales of Asmodeus**: A diplomatic vessel serving as the Chelish headquarters, outfitted with extensive legal archives and a staff of contract lawyers.
 - **Significant financial backing**: While not matching Absalom's wealth, Cheliax has committed substantial treasury funds to ensure their voice carries weight in the Common Purse.
 
