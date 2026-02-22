@@ -24,7 +24,7 @@ A woman in her late forties with sun-weathered skin and intense, burning eyes th
 
 ## Personality
 
-Valerius is a force of moral fury barely contained within a healer's frame. She is a **radical pacifist** who refuses to participate in violence herself, yet her words carry the weight of righteous anger that can silence a room. She has no patience for diplomatic niceties or "polite" language—she speaks the raw truth as she sees it, regardless of who it offends.
+Valerius is a force of moral fury barely contained within a healer's frame. She is a **radical pacifist** who refuses to participate in violence herself, yet her words carry the weight of righteous anger that can silence a room. She has no patience for diplomatic niceties or "polite" language she speaks the raw truth as she sees it, regardless of who it offends.
 
 Her anger stems not from cruelty but from compassion pushed beyond its breaking point. Every delay, every bureaucratic meeting, every merchant ship "stealing the wind" represents lives lost in her eyes. She views the five-month delay before departure as a moral catastrophe that she will never forgive.
 
