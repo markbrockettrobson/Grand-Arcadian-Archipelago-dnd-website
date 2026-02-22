@@ -8,7 +8,7 @@ tags:
 
 # Factions of the Flotilla
 
-The expedition to the Arcadian Archipelago comprises five major factions, each with their own motivations, resources, and vision for the islands.
+The expedition to the Arcadian Archipelago comprises six major factions, each with their own motivations, resources, and vision for the islands.
 
 ---
 
@@ -20,7 +20,10 @@ The expedition to the Arcadian Archipelago comprises five major factions, each w
 | [[The Chelish Expeditionary Authority]] | Armiger-Magistrate Thorn | Hellknight warships | Lawful order (colonial ambitions?) |
 | [[The Gray Corsairs]]                   | Captain Stormwright      | 3 swift vessels     | Prevent colonial exploitation      |
 | [[The Hands of the Everlight]]          | High Healer Valerius     | None (guests)       | Combat the plague                  |
+| [[The New Army of Exploration]]         | Triumvirate Leadership   | 3 vessels           | Reclaim Taldor's exploratory glory |
 | [[The Red Wake]]                        | Captain Marlowe          | 1 ship              | Profit & reputation                |
+
+**See also:** [[Minor Factions]] - Smaller organizations, guilds, and groups within the flotilla, plus nations that rejected participation and departed independently.
 
 ---
 
@@ -70,6 +73,17 @@ Driven by collective visions of plague in the Archipelago, this sect of Sarenrae
 
 ---
 
+### [[The New Army of Exploration]]
+
+**Leaders:** [[NPCs/Flotilla/New Army of Exploration/Surveyor-General Octavia Rhen|Surveyor-General Octavia Rhen]], [[NPCs/Flotilla/New Army of Exploration/Court Magister Valerian Kade|Court Magister Valerian Kade]], [[NPCs/Flotilla/New Army of Exploration/Ambassador-Envoy Cassius Orell|Ambassador-Envoy Cassius Orell]]  
+**Power Base:** Taldor's government and historical prestige
+
+Taldor's delegation seeks to reclaim their nation's legacy as explorers while distancing themselves from their colonial past. However, their triumvirate leadership structure with three competing leaders pursuing different agendas (ethical reform, artifact collection, and imperial glory) creates internal dysfunction that undermines their effectiveness.
+
+**Key Goal:** Restore Taldor's reputation as exploration experts (though the three leaders disagree on how).
+
+---
+
 ### [[The Red Wake]]
 
 **Leader:** [[NPCs/Flotilla/The Red Wake/Captain Serafina Marlowe|Captain Serafina Marlowe]]  
@@ -92,6 +106,8 @@ Unapologetic opportunists operating as highly-paid consultants. Captain Marlowe 
 **The Hands ↔ Everyone:** Frustrated with delays, but maintain working relationships. Closest to the Gray Corsairs on humanitarian matters.
 
 **The Assembly ↔ The Gray Corsairs:** Mutual respect for rule of law, but Voss finds their confrontational approach diplomatically inconvenient.
+
+**The New Army of Exploration ↔ Everyone:** The Assembly values their legitimacy but is frustrated by their inability to present unified positions. Cheliax views them with contempt as weak. The Hands openly denounce them as glory-seekers. The Gray Corsairs are cautiously optimistic but watchful.
 
 **The Red Wake ↔ Everyone:** Professional necessity. Most factions disdain Marlowe's mercenary ethics but need her expertise.
 
