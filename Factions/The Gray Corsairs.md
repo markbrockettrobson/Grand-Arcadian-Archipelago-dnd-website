@@ -64,17 +64,3 @@ The Gray Corsairs' objectives in the archipelago are clear:
 3. **Support Democratic Self-Governance**: Assist local populations in establishing their own forms of government, based on principles of liberty and self-determination.
 
 4. **Maintain Order Without Tyranny**: Help establish enough law and structure to prevent the archipelago from becoming a lawless haven for pirates and slavers, while respecting local autonomy.
-
-## Relationship with The New Army of Exploration
-
-The Gray Corsairs' view of [[The New Army of Exploration]] is notably more nuanced than their relationship with [[The Chelish Expeditionary Authority]], though still marked by caution. Taldor's transformation from absolute monarchy to constitutional republic, their abolition of slavery, and their public distancing from their colonial past have earned them a degree of cautious respect that Cheliax could never hope to achieve.
-
-[[NPCs/Flotilla/Gray Corsairs/Captain Isla Stormwright|Captain Isla Stormwright]] has stated that while she remains watchful of any imperial power's involvement in the archipelago, Taldor's recent reforms suggest "a nation attempting to learn from its mistakes rather than repeat them." The fact that [[NPCs/Surveyor-General Octavia Rhen|Surveyor-General Rhen]] appears genuinely committed to ethical exploration and has spoken against exploitative practices has not gone unnoticed.
-
-However, significant concerns remain. [[NPCs/Court Magister Valerian Kade|Court Magister Kade]]'s aggressive pursuit of Azlanti artifacts and his reputation for "ethical flexibility" when it comes to research raises red flags. The Gray Corsairs have quietly made it known that they will be watching closely to ensure Kade's archaeological ambitions don't transform into plundering indigenous sites or exploiting local populations for artifact locations.
-
-[[NPCs/Ambassador-Envoy Cassius Orell|Ambassador-Envoy Orell]]'s rhetoric about "responsible imperialism" and "Taldor's destiny" has been met with skepticism. Captain Isla has been heard remarking that "imperialism with better marketing is still imperialism," though she acknowledges that Orell's bluster appears to be more about personal glory than actual colonial ambitions.
-
-The triumvirate structure itself presents challenges for the Gray Corsairs. When attempting to coordinate on matters of indigenous rights or anti-slavery protocols, they've found themselves receiving three different responses from Taldor's leadership, making it difficult to establish clear agreements. [[NPCs/Flotilla/Gray Corsairs/Tidecaller Rowan|Tidecaller Rowan]] has observed that "a ship with three captains rarely stays on course," though they note that at least Taldor's confusion prevents them from pursuing any particularly harmful course of action effectively.
-
-Overall, the Gray Corsairs view the New Army of Exploration as neither ally nor enemy, but as a faction requiring observation and occasional guidance. They are cautiously optimistic that Taldor's better angels represented by Rhen will prevail over their more problematic impulses, but they are prepared to intervene if that optimism proves unfounded.

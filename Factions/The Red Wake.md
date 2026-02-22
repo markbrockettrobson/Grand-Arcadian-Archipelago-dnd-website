@@ -37,11 +37,3 @@ Even [[NPCs/Flotilla/Assembly of Accord/Admiral Lysandra Korvus|Admiral Lysandra
 Captain Marlowe occupies a unique and uncomfortable position within the expedition's power structure. She has a seat on the Flotilla Council as a "chief navigational advisor," though she treats it as a sinecure. She attends perhaps one meeting in five, and when she does appear, she spends most of the time visibly bored, occasionally interjecting with brutally practical observations that puncture hours of diplomatic posturing.
 
 The Assembly cannot dismiss her her knowledge is too valuable. The other factions cannot outbid the Assembly for her exclusive services Absalom's treasury is too deep. So she remains, a constant reminder that some problems cannot be solved with idealism or procedure, only with hard-won expertise and the willingness to name your price.
-
-### The Taldan Situation
-
-Captain Marlowe appears to find [[The New Army of Exploration]]'s triumvirate structure endlessly entertaining. She has been observed during council sessions taking visible amusement when [[NPCs/Surveyor-General Octavia Rhen|Surveyor-General Rhen]], [[NPCs/Court Magister Valerian Kade|Court Magister Kade]], and [[NPCs/Ambassador-Envoy Cassius Orell|Ambassador-Envoy Orell]] contradict each other, sometimes making side bets with [[NPCs/Flotilla/The Red Wake/Bastian Vale|Bastian Vale]] about which Taldan leader will undercut the others first.
-
-More practically, she has been hired by all three Taldan leaders on separate occasions for various services navigational consultation, discrete transportation of artifacts, and even what appeared to be surveillance of the other Taldan leaders. Each leader seems to believe they're hiring her without the others knowing, a misconception Marlowe shows no interest in correcting. The fact that she's being paid three times by the same faction for overlapping services strikes her as particularly good business.
-
-When asked about the arrangement, she allegedly remarked: "Why would I tell them? Watching Taldor negotiate with itself is the best entertainment this flotilla offers, and they're paying me for the privilege."
