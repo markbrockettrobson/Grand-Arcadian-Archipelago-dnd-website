@@ -26,9 +26,9 @@ A woman in her late forties with sun-weathered skin and intense, burning eyes th
 
 Valerius is a force of moral fury barely contained within a healer's frame. She is a **radical pacifist** who refuses to participate in violence herself, yet her words carry the weight of righteous anger that can silence a room. She has no patience for diplomatic niceties or "polite" language she speaks the raw truth as she sees it, regardless of who it offends.
 
-Her anger stems not from cruelty but from compassion pushed beyond its breaking point. Every delay, every bureaucratic meeting, every merchant ship "stealing the wind" represents lives lost in her eyes. She views the five-month delay before departure as a moral catastrophe that she will never forgive.
+She has publicly and repeatedly stated that every delay, every bureaucratic meeting, every merchant ship "stealing the wind" represents lives lost. She has declared the five-month delay before departure a "moral catastrophe" that she holds the Assembly and allied factions responsible for, showing no signs of forgiveness or moderation in her condemnation.
 
-Despite her fierce temperament, she is genuinely caring toward those suffering and shows infinite patience with the sick and injured. Her fury is reserved entirely for those she views as complicit in unnecessary suffering.
+Her fury appears rooted in compassion observers note that despite her fierce temperament in person, she shows infinite patience and genuine tenderness with the sick and injured. Her anger seems entirely reserved for those she views as complicit in unnecessary suffering, particularly political and commercial interests that prioritize procedure or profit over urgent humanitarian action.
 
 ---
 

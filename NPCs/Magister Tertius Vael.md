@@ -35,9 +35,9 @@ Magister Vael embodies the scholarly approach to magic methodical, precise, and 
 
 In conversation, he tends toward academic formality, liberally peppering his speech with citations, references to obscure texts, and careful qualifications ("As Zephus the Younger noted in his third treatise on planar resonance, though his methodology was admittedly questionable..."). This can make him seem pedantic, but those who look past the academic affectations find a genuinely passionate scholar who believes that proper understanding of magic can solve problems that raw power cannot.
 
-His interest in lost Azlanti ruins is both professional and deeply personal. As someone who carries Azlanti blood (albeit heavily diluted by millennia), he sees the recovery of ancient knowledge not as grave-robbing but as reclaiming a heritage that belongs, in some small way, to descendants like himself.
+His interest in lost Azlanti ruins is both professional and apparently deeply personal. As someone who carries visible Azlanti blood (albeit heavily diluted by millennia), he has publicly stated that recovering ancient knowledge is "reclaiming a heritage" rather than mere archaeological plundering. This perspective differentiates him from scholars who approach such sites with purely academic interest.
 
-Unlike some of Absalom's more conservative wizards, Vael is pragmatic about magical ethics. He believes that knowledge itself is neutral it's the application that carries moral weight. This puts him at odds with more cautious colleagues who believe some knowledge should remain buried.
+Unlike some of Absalom's more conservative wizards, Vael appears pragmatic about magical ethics. He has argued in council discussions that "knowledge itself is neutral it's the application that carries moral weight." This position has led to observable tension with more cautious colleagues who advocate that some knowledge should remain buried.
 
 ---
 
@@ -56,7 +56,7 @@ Magister Vael serves as the Assembly of Accord's chief magical advisor and the o
 - **Runic Research:** Documenting and analyzing any ancient inscriptions encountered
 - **Diplomatic Magic:** Providing magical authentication for treaties and contracts
 
-He works closely with both [[Lord Arbitrator Hadrian Voss]] and [[Admiral Lysandra Korvus]]. With Lord Voss, he shares a appreciation for proper documentation and rigorous methodology. With Admiral Korvus, he has a more strained relationship she sees magic as just another tool and grows impatient with his lengthy explanations, while he wishes she would appreciate the theoretical elegance of what he's explaining.
+He works closely with both [[Lord Arbitrator Hadrian Voss]] and [[Admiral Lysandra Korvus]]. With Lord Voss, he shares an appreciation for proper documentation and rigorous methodology observers note their meetings often run long as they debate the finer points of procedure and evidence. With Admiral Korvus, the relationship appears more strained she visibly grows impatient with his lengthy explanations, occasionally cutting him off with requests for "the practical summary." Vael's carefully hidden frustration at these interruptions sometimes shows in subtle tightening around his eyes.
 
 His relationship with [[The Hands of the Everlight]] is professionally cordial. He has provided healing-enhancement enchantments for their medical supplies and helped establish preservation spells for their medicine stores. [[High Healer Valerius]] appreciates his practical assistance even if she has no interest in his scholarly pursuits.
 

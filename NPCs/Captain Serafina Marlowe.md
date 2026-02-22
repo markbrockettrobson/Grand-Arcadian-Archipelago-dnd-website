@@ -18,7 +18,7 @@ tags:
 
 Captain Serafina Marlowe, known throughout the Inner Sea as the "Red Wake," is a woman who has turned navigating impossible waters into an art form and a profit center. Pirate, privateer, opportunist, expert. She's been called all of these, and she wears each label with the same wry amusement. What matters to Marlowe isn't what people call her, but what they're willing to pay her.
 
-She is the only known living captain to have successfully navigated the Arcadian seas **three times**, each expedition returning with plunder and, more importantly, with detailed knowledge of the treacherous passages, hidden reefs, and navigable routes. This makes her quite possibly the most valuable single individual in the entire flotilla, and she knows it. Her price reflects this.
+She is the only known living captain to have successfully navigated the Arcadian seas **three times**, each expedition returning with plunder and, more importantly, with detailed knowledge of the treacherous passages, hidden reefs, and navigable routes. This makes her quite possibly the most valuable single individual in the entire flotilla a fact she appears well aware of, if her negotiating position is any indication. Her compensation from the Assembly reflects this reality.
 
 ---
 
@@ -32,11 +32,11 @@ She moves with the unconscious balance of someone who's spent more time on a swa
 
 ## Personality
 
-Marlowe is refreshingly, brutally honest about her motivations: she's here for profit. While other factions dress their ambitions in moral urgency or diplomatic necessity, Marlowe simply names her price and delivers results. She finds the entire political theater of the flotilla simultaneously amusing and tedious.
+Marlowe is refreshingly, brutally honest about her motivations in public: she's here for profit. While other factions dress their ambitions in moral urgency or diplomatic necessity, Marlowe simply names her price and delivers results. She treats the entire political theater of the flotilla with visible amusement and occasional tedium.
 
-She respects competence and despises pretense. [[Admiral Lysandra Korvus]] earns her professional admiration because the Admiral runs an efficient fleet. [[Lord Arbitrator Hadrian Voss]] earns her mild contempt because he could accomplish in two weeks what he stretches into five months of committee meetings - though she's happy to be paid for every one of those unnecessary days.
+Her public comments suggest she respects competence and despises pretense. She has spoken positively of [[Admiral Lysandra Korvus]] as someone who "actually runs a fleet instead of talking about running one." Her commentary about [[Lord Arbitrator Hadrian Voss]] is more cutting she's remarked that "she could accomplish in two weeks what he stretches into five months of committee meetings" though she's also noted she's "happy to be paid for every one of those unnecessary days."
 
-Marlowe has a sharp wit and a low tolerance for bureaucratic nonsense. She rarely attends Flotilla Council meetings, and when she does, she's been known to walk out mid-session with a cutting remark about "wasting wind on speeches when you could be making headway."
+Marlowe has a sharp wit and demonstrably low tolerance for bureaucratic nonsense. She rarely attends Flotilla Council meetings, and when she does, she's been known to walk out mid-session with cutting remarks about "wasting wind on speeches when you could be making headway."
 
 ---
 
@@ -50,13 +50,13 @@ When she does offer navigational guidance, however, people listen. Her knowledge
 
 ## Relationships
 
-- **[[Admiral Lysandra Korvus]]**: Mutual professional respect between two women who understand naval operations at the highest level. The Admiral disapproves of Marlowe's mercenary ethics but cannot fault her seamanship. Marlowe appreciates competence when she sees it.
+- **[[Admiral Lysandra Korvus]]**: The two maintain professional respect despite clear differences in ethics. The Admiral's disapproval of Marlowe's mercenary approach is barely concealed, but she has publicly acknowledged Marlowe's seamanship. Marlowe, for her part, has made favorable comments about the Admiral's competence in naval operations.
 
-- **[[Bastian Vale]]**: Her first mate and personal bard, responsible for ensuring Captain Marlowe's exploits are properly chronicled and exaggerated in equal measure. Their relationship is equal parts professional necessity and genuine friendship.
+- **[[Bastian Vale]]**: Her first mate and personal bard, responsible for chronicling Captain Marlowe's exploits. Their interactions suggest a relationship that goes beyond mere professional necessity they appear to genuinely enjoy each other's company.
 
-- **[[Lord Arbitrator Hadrian Voss]]**: Marlowe finds Lord Voss's diplomatic approach exhausting and inefficient, but she respects that he's the one actually holding the fractious coalition together. More importantly, his treasury is the one paying her salary.
+- **[[Lord Arbitrator Hadrian Voss]]**: Marlowe's public comments about Lord Voss's diplomatic approach are frequently disparaging, though she has acknowledged he's "the one actually holding the fractious coalition together." More pragmatically, she's aware his treasury is the source of her considerable salary.
 
-- **[[The Hands of the Everlight]]**: They view her as everything wrong with the expedition. She views them as naive idealists who would have gotten their entire mercy mission sunk in the Widow's Teeth without expert pilots. Neither opinion is likely to change.
+- **[[The Hands of the Everlight]]**: The healers have publicly denounced her as representing everything wrong with the expedition profit-seeking amid humanitarian crisis. Marlowe has been overheard remarking that "naive idealists would have gotten their entire mercy mission sunk in the Widow's Teeth without expert pilots." Neither faction shows signs of improving their opinion of the other.
 
 ---
 

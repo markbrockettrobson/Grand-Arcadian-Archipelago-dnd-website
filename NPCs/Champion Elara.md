@@ -23,13 +23,13 @@ A powerfully built woman in her early thirties with dark skin, close-cropped bla
 
 ## Personality
 
-Elara embodies the challenging balance between Sarenrae's mercy and her wrath. She is a devoted protector, a skilled warrior, and a deeply patient individual who must constantly reconcile her own feelings with her duty.
+Elara embodies the challenging balance between Sarenrae's mercy and her wrath. She is a devoted protector, a skilled warrior, and demonstrates deep patience in reconciling competing demands of her position.
 
-She **agrees with Valerius's anger** the delays were morally inexcusable, and the profiteering disgusts her. Her warrior's heart burns with the same righteous fury. However, she **respects Kaelen's methods**, recognizing that pragmatism and diplomacy are weapons too, just wielded differently.
+Observers note she appears to sympathize with Valerius's anger when she nods solemnly during the High Healer's denouncements of delays and profiteering, her hand often resting on her blade as though sharing that righteous fury. Yet she also shows visible respect for Kaelen's methods, standing supportively behind him during diplomatic negotiations and occasionally whispering suggestions that help smooth tense moments.
 
-This makes her the natural bridge between the faction's idealist leader and its pragmatic diplomat. She can translate between their worldviews because she genuinely holds both in her own heart.
+This makes her a natural bridge between the faction's idealist leader and its pragmatic diplomat. She can navigate between their approaches, suggesting she understands and values both perspectives even when they conflict.
 
-Her primary frustration is her "impossible job" protecting a pacifist leader who actively refuses to stay out of danger. Valerius will walk into the most hostile political situations unarmed except for her moral conviction, and Elara must be prepared to defend her without being able to counsel caution effectively.
+Her primary visible frustration appears to be her "impossible job" protecting a pacifist leader who actively refuses to stay out of danger. Valerius will walk into hostile political situations unarmed except for her moral conviction, and Elara must be prepared to defend her without being able to effectively counsel caution. This tension is obvious to anyone who watches them Elara's concern written clearly on her face as Valerius enters yet another contentious council meeting.
 
 ---
 

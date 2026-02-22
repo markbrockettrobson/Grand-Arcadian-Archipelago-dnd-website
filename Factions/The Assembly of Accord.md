@@ -17,9 +17,9 @@ However, this grand vision comes at a cost. The Assembly's insistence on "doing 
 
 > _"We are not here to plant flags and claim glory. We are here to build something that will outlast us all a system where disputes are settled with contracts rather than swords, where trade flows freely across borders, where the rule of law replaces the law of the strongest. Yes, this takes time. Yes, this requires patience. But what we build here will echo through the ages."_ **[Lord Arbitrator Hadrian Voss]**, opening address to the Flotilla Council.
 
-To Lord Voss, in the twilight of his distinguished career, this expedition represents the culmination of a lifetime's work. He has no interest in quick victories or personal glory he seeks a legacy that will be remembered when he and everyone aboard these ships are dust. He genuinely believes that the delays, the endless committee meetings, the painstaking negotiation of every clause and sub-clause, are not obstacles but investments in a more civilized future.
+Lord Voss, in the twilight of his distinguished career, has stated publicly that this expedition represents "a chance to build frameworks that will outlast us all." His speeches to the council emphasize legacy-building and the importance of "getting it right" over getting it done quickly. Whether this represents genuine idealism or skillful rhetoric to justify Absalom's dominance remains debated.
 
-The [[The Hands of the Everlight|Hands of the Everlight]] see this philosophy as morally bankrupt people are suffering _now_, and Lord Voss is writing footnotes. The merchant factions see the Assembly as competition dressed in diplomatic robes. The military contingents chafe under civilian oversight. But none can deny that Lord Voss has kept this fractious coalition together, held competing interests in balance, and transformed what should have been a dozen conflicting expeditions into a unified fleet.
+[[The Hands of the Everlight|The Hands of the Everlight]] openly denounce what they see as morally bankrupt priorities people are suffering _now_, and Lord Voss is writing footnotes. Many merchant factions view the Assembly as competition dressed in diplomatic robes. Military contingents from various nations visibly chafe under civilian oversight. Yet even critics acknowledge that Lord Voss has kept this fractious coalition together, held competing interests in balance, and transformed what could have been a dozen conflicting expeditions into a unified fleet.
 
 ### Notable NPCs
 
@@ -39,7 +39,7 @@ The Assembly's influence stems not from moral authority but from sheer economic 
 
 These three vessels represent some of the finest naval engineering in the Inner Sea, and their presence gives the Assembly unmatched military capabilities within the flotilla. When Lord Voss speaks, other factions know that his words are backed by the best-trained crews and most advanced ships on the water.
 
-Beyond the naval contribution, Absalom has shouldered a considerable fiscal burden: funding shared supplies, subsidizing smaller factions' participation, maintaining the Common Purse, and covering the costs of establishing permanent infrastructure. This financial investment translates to political leverage when debates grow heated, Lord Voss can quietly remind dissenting factions who is paying for the rope that holds this coalition together.
+Beyond the naval contribution, Absalom has shouldered a considerable fiscal burden: funding shared supplies, subsidizing smaller factions' participation, maintaining the Common Purse, and covering the costs of establishing permanent infrastructure. This financial investment provides clear political leverage observers have noted that when debates grow heated, Lord Voss's reminders about "shared financial responsibility" tend  to bring dissenting factions back to the negotiating table.
 
 ### **The Assembly's Framework**
 
@@ -53,6 +53,6 @@ The Assembly of Accord has established a complex but functional administrative s
 
 - **The Common Purse**: A pooled treasury for shared expenses (navigation, defense, emergency supplies) funded by proportional contributions from each faction. The Assembly controls the ledgers.
 
-Despite the resentment, the Assembly's obsession with infrastructure and procedure has created genuine value. Supply lines are efficient. Conflicting territorial claims have been resolved _before_ anyone fired a shot. Legal frameworks exist to handle criminal acts, medical emergencies, and resource distribution. The fleet moves as a fleet, not a mob.
+Even those frustrated by the delays acknowledge the Assembly's administrative work has created functional infrastructure. Supply lines are efficient. Conflicting territorial claims have been addressed through negotiation rather than violence. Legal frameworks exist to handle criminal acts, medical emergencies, and resource distribution. The fleet moves as a coordinated entity, not a chaotic mob.
 
-But every day spent perfecting the system was another day that the people of Arcadia suffered, and the [[The Hands of the Everlight|Hands of the Everlight]] will never forgive them for it.
+Yet the [[The Hands of the Everlight|Hands of the Everlight]] argue that every day spent perfecting the system was another day that the people of Arcadia suffered a moral calculus they show no signs of forgiving.

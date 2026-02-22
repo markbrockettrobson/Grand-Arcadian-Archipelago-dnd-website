@@ -33,8 +33,6 @@ Admiral Korvus is a consummate professional with little patience for politics or
 
 She is direct, sometimes bluntly so, and has earned a reputation for telling uncomfortable truths that others would prefer to avoid. During Flotilla Council meetings, she is the one who points out that a proposed plan requires resources that don't exist, or that a diplomatic solution won't matter if the fleet can't actually reach the destination.
 
-However, beneath her gruff exterior lies a deep commitment to the same ideals that drive Lord Voss she simply expresses them differently. To Korvus, a well-run fleet _is_ civilization. Proper navigation _is_ cooperation. Following established naval protocol _is_ the foundation of law and order. She and Lord Voss complement each other perfectly: he provides the vision and diplomacy, she provides the practical implementation.
-
 **Quirks:**
 
 - Unconsciously uses nautical metaphors for everything ("We're in uncharted waters," "That plan won't hold water," "Dead reckoning won't work here")
@@ -63,10 +61,10 @@ Admiral Korvus commands Absalom's naval contribution to the expedition: three of
 
 Beyond the three Absalom vessels, she holds operational command over fleet movements and navigation for the entire flotilla a responsibility given grudgingly by other factions but one she has proven invaluable in executing.
 
-Her relationship with [[Lord Arbitrator Hadrian Voss]] is one of mutual respect and complementary skills. She translates his diplomatic vision into practical action, while he provides her with the political authority to implement necessary but unpopular decisions. They meet each morning to coordinate the day's plans he handles the politics, she handles the logistics, and together they keep the unwieldy flotilla moving forward.
+Her relationship with [[Lord Arbitrator Hadrian Voss]] appears to be one of mutual respect and complementary skills. They meet each morning to coordinate the day's plans observers note that he handles the politics while she handles the logistics, and together they keep the unwieldy flotilla moving forward.
 
-She has professional respect for [[Adjudicator Kaelen]] of [[The Hands of the Everlight|the Hands of the Everlight]], recognizing a fellow pragmatist trying to manage idealists. Her opinion of [[High Healer Valerius]] is more complicated - she understands the healer's frustration with delays, but also knows that without proper planning, they'd have lost half the fleet to storms, reefs, and basic navigational errors before ever reaching Arcadia. A sustained aid pipline will save more lives than rushing in unprepared, and Korvus is the one who will make sure that aid actually gets there.
+She has been observed treating [[Adjudicator Kaelen]] of [[The Hands of the Everlight|the Hands of the Everlight]] with professional respect, possibly recognizing a fellow pragmatist trying to manage idealists. Her interactions with [[High Healer Valerius]] are more visibly strained while she maintains formal courtesy, her body language and clipped responses suggest frustration. She has stated publicly that "without proper planning, we'd lose half the fleet to storms and reefs before ever reaching Arcadia," a comment clearly directed at critics of the expedition's preparation time.
 
-Her relationship with [[Captain Serafina Marlowe]] is perhaps her most complicated professional connection. Korvus finds Marlowe's mercenary ethics distasteful and her flagrant disregard for council protocol irritating. However, she cannot deny and has privately admitted that Marlowe's three successful crossings represent a level of seamanship and navigational skill that commands professional admiration, regardless of the captain's questionable morals. They will never be friends, but they understand each other.
+Her relationship with [[Captain Serafina Marlowe]] is perhaps her most complicated professional connection. Korvus's distaste for Marlowe's mercenary ethics and flagrant disregard for council protocol is barely concealed. However, she has acknowledged publicly that Marlowe's three successful crossings represent "considerable seamanship and navigational skill." The two maintain professional courtesy when fleet operations require coordination between their vessels, though they clearly will never be friends.
 
 ---
