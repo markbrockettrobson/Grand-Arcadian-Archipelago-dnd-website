@@ -85,16 +85,6 @@ The tensions have remained verbal thus far, confined to heated exchanges during 
 
 Observers note a bitter irony: the Chelish delays have inadvertently prevented the Gray Corsairs from acting on their principles. While the flotilla remains mired in procedure, neither Cheliax nor the Gray Corsairs can establish their vision for the archipelago. Whether this stalemate serves Cheliax's interests more than Andoran's remains a subject of debate.
 
-## Relationship with The New Army of Exploration
-
-The Chelish Expeditionary Authority regards [[The New Army of Exploration]] with thinly veiled contempt, viewing Taldor's triumvirate leadership structure as a textbook example of political weakness. Where Cheliax presents a unified front despite their own internal complexities, Taldor's three competing leaders publicly pursue contradictory agendas, undercutting each other in council sessions and engaging in what Chelish observers have called "embarrassing displays of imperial decline."
-
-[[NPCs/Flotilla/Chelish Expeditionary Authority/Armiger-Magistrate Corvain Thorn|Armiger-Magistrate Corvain Thorn]] has been heard remarking that Taldor's inability to coordinate even basic policy positions demonstrates why "democracies and republics inevitably succumb to chaos." The Chelish delegation appears to view the New Army of Exploration as a cautionary tale the fate that awaits empires that abandon proper hierarchical order in favor of committee rule.
-
-Despite this dismissive attitude, Chelish strategists have noted a practical benefit to Taldor's dysfunction: the triumvirate's inability to take unified positions on key votes means they rarely present coordinated opposition to Chelish proposals. When [[NPCs/Surveyor-General Octavia Rhen|Surveyor-General Rhen]] votes one way, [[NPCs/Court Magister Valerian Kade|Court Magister Kade]] another, and [[NPCs/Ambassador-Envoy Cassius Orell|Ambassador-Envoy Orell]] abstains or proposes amendments, the net result is that Taldor's three votes effectively cancel each other out.
-
-Some observers suspect the Chelish may be quietly encouraging this dysfunction, though no evidence of direct interference has surfaced. What is clear is that Cheliax benefits considerably from having another major imperial power in the flotilla that poses no meaningful threat to their agenda.
-
 ## Notable NPCs
 
 - **[[NPCs/Flotilla/Chelish Expeditionary Authority/Armiger-Magistrate Corvain Thorn|Armiger-Magistrate Corvain Thorn]]**: Commander of the Chelish Expeditionary Authority and senior officer of the Order of the Rack. A Hellknight who wields bureaucracy as effectively as he wields his warhammer. Cold, methodical, and utterly convinced that his obstruction serves the greater good of preventing chaos.

@@ -58,13 +58,3 @@ The Assembly of Accord has established a complex but functional administrative s
 Even those frustrated by the delays acknowledge the Assembly's administrative work has created functional infrastructure. Supply lines are efficient. Conflicting territorial claims have been addressed through negotiation rather than violence. Legal frameworks exist to handle criminal acts, medical emergencies, and resource distribution. The fleet moves as a coordinated entity, not a chaotic mob.
 
 Yet the [[The Hands of the Everlight|Hands of the Everlight]] argue that every day spent perfecting the system was another day that the people of Arcadia suffered a moral calculus they show no signs of forgiving.
-
-### **Relationship with The New Army of Exploration**
-
-The Assembly of Accord actively values [[The New Army of Exploration]]'s participation in the flotilla, viewing Taldor's presence as a crucial source of international legitimacy. Having an ancient imperial power with Taldor's historical prestige lends the coalition gravitas that Absalom's commercial interests alone cannot provide. Lord Voss has publicly praised the Taldan delegation's contributions to procedural frameworks and noted their expertise in matters of exploration and territorial survey.
-
-However, private frustrations have become increasingly visible. The Taldan delegation's triumvirate leadership structure the presence of three competing leaders with different agendas creates operational complications. When the Assembly requests a position from the New Army of Exploration on territorial frameworks or resource allocation, they often receive three different answers, sometimes contradicting each other within the same council session.
-
-Lord Voss has been observed attempting to mediate between [[NPCs/Surveyor-General Octavia Rhen|Surveyor-General Octavia Rhen]], [[NPCs/Court Magister Valerian Kade|Court Magister Valerian Kade]], and [[NPCs/Ambassador-Envoy Cassius Orell|Ambassador-Envoy Cassius Orell]], with mixed success. The triumvirate's inability to present unified positions on key votes has led to confusion during critical council sessions, forcing delays that even Lord Voss finds excessive.
-
-Despite these frustrations, the Assembly continues to court Taldan support and emphasize their partnership in public statements. The legitimacy they provide is simply too valuable to risk losing, even if working with them requires considerable patience.
