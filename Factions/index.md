@@ -96,9 +96,3 @@ Unapologetic opportunists operating as highly-paid consultants. Captain Marlowe 
 **The Red Wake ↔ Everyone:** Professional necessity. Most factions disdain Marlowe's mercenary ethics but need her expertise.
 
 ---
-
-## Related Pages
-
-- [[NPCs/index|NPC Directory]]
-- [[World Lore/The Opening of the Archipelago|The Opening of the Archipelago]]
-- [[Campaign Info|Campaign Information]]
