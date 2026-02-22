@@ -17,7 +17,7 @@ status: alive
 
 ## Appearance
 
-A powerfully built woman in her early thirties with dark skin, close-cropped black hair, and a warrior's bearing softened by compassionate eyes. She typically wears gleaming scale mail emblazoned with Sarenrae's holy symbol, with a scimitar at her hip and a shield on her back—both showing signs of regular use and meticulous care.
+A powerfully built woman in her early thirties with dark skin, close-cropped black hair, and a warrior's bearing softened by compassionate eyes. She typically wears gleaming scale mail emblazoned with Sarenrae's holy symbol, with a scimitar at her hip and a shield on her back both showing signs of regular use and meticulous care.
 
 ## Unlike many champions who appear intimidating, Elara has a warm, reassuring presence.
 

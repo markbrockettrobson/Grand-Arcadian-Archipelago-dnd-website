@@ -21,17 +21,17 @@ faction: The Assembly of Accord
 
 ## Appearance
 
-Magister Vael is a man in his mid-forties with the distinctive features of old Azlanti bloodline—pale skin, angular features, and striking violet eyes that seem to gleam with arcane energy. His hair, once jet black, is now liberally streaked with premature white, which he attributes to "too many close encounters with magical backlash."
+Magister Vael is a man in his mid-forties with the distinctive features of old Azlanti bloodline pale skin, angular features, and striking violet eyes that seem to gleam with arcane energy. His hair, once jet black, is now liberally streaked with premature white, which he attributes to "too many close encounters with magical backlash."
 
-He dresses in the formal regalia of Absalom's Arcanamirium: deep purple robes embroidered with silver runic patterns, a golden chain bearing the seal of the Acting First Spell Lord, and an extensive collection of rings, amulets, and other magical accoutrements. Unlike many wizards who cultivate an air of otherworldly mystery, Vael maintains a crisp, professional appearance—his robes are always immaculate, his spell component pouch meticulously organized, and his spellbook protected by no fewer than seven different preservation enchantments.
+He dresses in the formal regalia of Absalom's Arcanamirium: deep purple robes embroidered with silver runic patterns, a golden chain bearing the seal of the Acting First Spell Lord, and an extensive collection of rings, amulets, and other magical accoutrements. Unlike many wizards who cultivate an air of otherworldly mystery, Vael maintains a crisp, professional appearance his robes are always immaculate, his spell component pouch meticulously organized, and his spellbook protected by no fewer than seven different preservation enchantments.
 
-He carries an ornate staff of dark wood inlaid with mother-of-pearl in patterns resembling ancient Azlanti runes—though whether these are genuine artifacts or merely decorative replicas is a subject of much speculation.
+He carries an ornate staff of dark wood inlaid with mother-of-pearl in patterns resembling ancient Azlanti runes though whether these are genuine artifacts or merely decorative replicas is a subject of much speculation.
 
 ---
 
 ## Personality
 
-Magister Vael embodies the scholarly approach to magic—methodical, precise, and intensely curious. He treats magical research with the same reverence that [[Lord Arbitrator Hadrian Voss]] treats legal contracts: every variable must be documented, every experiment reproducible, every conclusion supported by rigorous evidence.
+Magister Vael embodies the scholarly approach to magic methodical, precise, and intensely curious. He treats magical research with the same reverence that [[Lord Arbitrator Hadrian Voss]] treats legal contracts: every variable must be documented, every experiment reproducible, every conclusion supported by rigorous evidence.
 
 In conversation, he tends toward academic formality, liberally peppering his speech with citations, references to obscure texts, and careful qualifications ("As Zephus the Younger noted in his third treatise on planar resonance, though his methodology was admittedly questionable..."). This can make him seem pedantic, but those who look past the academic affectations find a genuinely passionate scholar who believes that proper understanding of magic can solve problems that raw power cannot.
 
