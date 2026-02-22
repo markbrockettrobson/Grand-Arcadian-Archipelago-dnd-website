@@ -27,6 +27,8 @@ Welcome to the campaign vault for **The Arcadian Archipelago**, a Pathfinder 2nd
 ### Factions
 
 - [[Factions/The Assembly of Accord|The Assembly of Accord]]
+- [[Factions/The Chelish Expeditionary Authority|The Chelish Expeditionary Authority]]
+- [[Factions/The Gray Corsairs|The Gray Corsairs]]
 - [[Factions/The Hands of the Everlight|The Hands of the Everlight]]
 - [[Factions/The Red Wake|The Red Wake]]
 

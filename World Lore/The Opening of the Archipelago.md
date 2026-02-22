@@ -9,7 +9,11 @@ tags: [Campaign, Location]
 
 ## The Gradual Awakening
 
-For decades, the Arcadian Archipelago existed as little more than sailor's legend a distant chain of islands shrouded in treacherous seas and navigational hazards that claimed ships with ruthless regularity. But over the past ten years, something changed. Individual reports of successful passages, once dismissed as luck or exaggeration, began to accumulate. Semi-successful expeditions turned into increasingly common navigational victories. Sea routes that seemed impossible one season became merely challenging the next. The archipelago, with its ancient ruins and untapped resources, remained dangerous to reach but no longer impossibly so.
+For decades, the Arcadian Archipelago existed as little more than sailor's legend a distant chain of islands shrouded in treacherous seas and navigational hazards that claimed ships with ruthless regularity. But over the past ten years, something changed. Individual reports of successful passages, once dismissed as luck or exaggeration, began to accumulate. Semi-successful expeditions turned into increasingly common navigational victories. Sea routes that seemed impossible one season became merely challenging the next.
+
+The most notable evidence of this shift came from [[NPCs/Flotilla/The Red Wake/Captain Serafina Marlowe|Captain Serafina Marlowe]], the infamous "Red Wake," who successfully navigated the Arcadian seas not once, but three times over the past decade each journey returning with plunder, detailed charts, and proof that the passage, while still treacherous, had become survivable for skilled navigators. Her exploits transformed the Archipelago from a death sentence into a calculated risk, and her willingness to sell her expertise to the highest bidder signaled to the great powers that the window of opportunity was opening.
+
+The archipelago, with its ancient ruins and untapped resources, remained dangerous to reach but no longer impossibly so.
 
 ## Wealth Waiting to Be Claimed
 
