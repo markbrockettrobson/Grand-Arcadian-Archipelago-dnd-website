@@ -5,6 +5,10 @@ publish: true
 tags:
   - Faction
   - KeyFaction
+description: "Overview of the Magaambya delegation, its scholars, and its approach to Arcadian mysteries."
+permalink: "/factions/the-magaambya/"
+aliases: []
+date: 2026-02-22
 ---
 
 Representing the [world's oldest surviving center of magical learning Magaambya](https://pathfinderwiki.com/wiki/Magaambya), this delegation from the heart of the [Mwangi Expanse](https://pathfinderwiki.com/wiki/Mwangi_Expanse) brings a perspective that many other factions find simultaneously inspiring and deeply uncomfortable.

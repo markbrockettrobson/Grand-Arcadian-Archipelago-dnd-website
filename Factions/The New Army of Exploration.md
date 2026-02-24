@@ -5,6 +5,10 @@ publish: true
 tags:
   - Faction
   - KeyFaction
+description: "Overview of the New Army of Exploration and its ambitions in the reopened archipelago."
+permalink: "/factions/the-new-army-of-exploration/"
+aliases: []
+date: 2026-02-22
 ---
 
 Where [[The Assembly of Accord]] sees an opportunity to build lasting frameworks and [[The Chelish Expeditionary Authority]] uses procedure as a weapon of delay, Taldor's **New Army of Exploration** appears caught between nostalgic yearning for past glories and uncomfortable awareness that those glories came at a terrible cost. Representing the interests of the ancient [Empire of Taldor](https://pathfinderwiki.com/wiki/Taldor), this delegation carries the weight of a thousand years of exploration history both triumphant and deeply troubling.

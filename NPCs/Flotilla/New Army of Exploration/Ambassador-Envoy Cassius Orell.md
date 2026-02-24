@@ -6,9 +6,16 @@ tags:
 type: npc
 ancestry: Human
 faction: The New Army of Exploration
+title: "Ambassador-Envoy Cassius Orell"
+description: "A player-facing profile of Ambassador-Envoy Cassius Orell of the New Army of Exploration."
+permalink: "/npcs/flotilla/new-army-of-exploration/ambassador-envoy-cassius-orell/"
+aliases: []
+date: 2026-02-22
 ---
 
 # Ambassador-Envoy Cassius Orell
+
+![[../../../../Artwork/NPC/Ambassador-Envoy Cassius Orell.png]]
 
 **Ancestry:** Human (Taldan)
 **Alignment:** Lawful Neutral  

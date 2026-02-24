@@ -3,6 +3,10 @@ title: Locations
 draft: false
 publish: true
 tags: [Location]
+description: "Directory of known locations in the Arcadian Archipelago, including settlements, sites, and points of interest."
+permalink: "/locations/locations/"
+aliases: []
+date: 2026-02-14
 ---
 
 # Locations

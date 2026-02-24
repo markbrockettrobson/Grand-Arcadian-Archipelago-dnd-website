@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Campaign Home": "https://github.com/YOUR-USERNAME/Grand-Arcadian-Archipelago-dnd-website",
+      "Campaign Home": "https://github.com/markbrockettrobson/Grand-Arcadian-Archipelago-dnd-website",
       "Pathfinder 2e": "https://2e.aonprd.com/",
       "Powered by Quartz": "https://quartz.jzhao.xyz/",
     },

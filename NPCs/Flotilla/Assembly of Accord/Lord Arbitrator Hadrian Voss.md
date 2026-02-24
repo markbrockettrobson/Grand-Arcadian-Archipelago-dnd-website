@@ -8,9 +8,16 @@ type: npc
 ancestry: Human
 class: Cleric
 faction: The Assembly of Accord
+title: "Lord Arbitrator Hadrian Voss"
+description: "A player-facing profile of Lord Arbitrator Hadrian Voss of the Assembly of Accord."
+permalink: "/npcs/flotilla/assembly-of-accord/lord-arbitrator-hadrian-voss/"
+aliases: []
+date: 2026-02-17
 ---
 
 # Lord Arbitrator Hadrian Voss
+
+![[../../../../Artwork/NPC/Lord Arbitrator Hadrian Voss.png]]
 
 **Ancestry:** Human  
 **Class/Profession:** Cleric of Abadar  

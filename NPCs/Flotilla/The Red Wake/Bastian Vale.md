@@ -4,9 +4,15 @@ draft: false
 publish: true
 tags:
   - Npc
+description: "A player-facing profile of Bastian Vale of the Red Wake."
+permalink: "/npcs/flotilla/the-red-wake/bastian-vale/"
+aliases: []
+date: 2026-02-22
 ---
 
 # Bastian Vale
+
+![[../../../../Artwork/NPC/Bastian Vale.png]]
 
 **Faction:** [[The Red Wake]]  
 **Role:** First Mate, Bard, Professional Chronicler

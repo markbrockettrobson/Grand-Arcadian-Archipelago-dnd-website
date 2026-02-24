@@ -5,9 +5,16 @@ tags: [Npc]
 type: Npc
 faction: "[[The Hands of the Everlight]]"
 status: alive
+title: "Champion Elara"
+description: "A player-facing profile of Champion Elara of the Hands of the Everlight."
+permalink: "/npcs/flotilla/hands-of-the-everlight/champion-elara/"
+aliases: []
+date: 2026-02-17
 ---
 
 # Champion Elara
+
+![[../../../../Artwork/NPC/Champion Elara.png]]
 
 **Ancestry:** Human  
 **Class/Profession:** Champion of Sarenrae
@@ -19,7 +26,7 @@ status: alive
 
 A powerfully built woman in her early thirties with dark skin, close-cropped black hair, and a warrior's bearing softened by compassionate eyes. She typically wears gleaming scale mail emblazoned with Sarenrae's holy symbol, with a scimitar at her hip and a shield on her back both showing signs of regular use and meticulous care.
 
-## Unlike many champions who appear intimidating, Elara has a warm, reassuring presence.
+Unlike many champions who appear intimidating, Elara has a warm, reassuring presence.
 
 ## Personality
 

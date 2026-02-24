@@ -6,6 +6,11 @@ type: location
 location-type: city
 region: 
 population: 
+title: "Location"
+description: "Template for creating location entries with region, type, and population details."
+permalink: "/templates/location/"
+aliases: []
+date: 2026-02-14
 ---
 
 # {{title}}

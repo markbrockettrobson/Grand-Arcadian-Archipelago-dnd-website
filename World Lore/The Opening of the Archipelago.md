@@ -3,6 +3,10 @@ title: The Opening of the Archipelago
 draft: false
 publish: true
 tags: [Campaign, Location]
+description: "Player-facing summary of how the Arcadian Archipelago reopened and why it matters now."
+permalink: "/world-lore/the-opening-of-the-archipelago/"
+aliases: []
+date: 2026-02-22
 ---
 
 # The Opening of the Archipelago

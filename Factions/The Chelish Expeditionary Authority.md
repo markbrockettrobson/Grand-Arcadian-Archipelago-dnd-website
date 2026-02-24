@@ -5,6 +5,10 @@ publish: true
 tags:
   - Faction
   - KeyFaction
+description: "Overview of the Chelish Expeditionary Authority and its role in flotilla politics and expeditions."
+permalink: "/factions/the-chelish-expeditionary-authority/"
+aliases: []
+date: 2026-02-22
 ---
 
 Where [[The Assembly of Accord]] uses procedure as a tool for cooperation and [[The Hands of the Everlight]] see it as an obstacle to mercy, the **Chelish Expeditionary Authority** appears to wield bureaucracy as a weapon. Representing the interests of the Empire of [Cheliax](https://pathfinderwiki.com/wiki/Cheliax) and backed by the disciplined presence of [[https://pathfinderwiki.com/wiki/Hellknight|Hellknight]] enforcers, their approach to the expedition has sparked considerable speculation about their true motives.

@@ -5,9 +5,15 @@ publish: true
 tags:
   - Npc
   - FactionLeader
+description: "A player-facing profile of Captain Serafina Marlowe of the Red Wake."
+permalink: "/npcs/flotilla/the-red-wake/captain-serafina-marlowe/"
+aliases: []
+date: 2026-02-22
 ---
 
 # Captain Serafina "Red Wake" Marlowe
+
+![[../../../../Artwork/NPC/Captain Serafina Marlowe.png]]
 
 **Faction:** [[The Red Wake]]  
 **Role:** Captain, Legendary Pilot, Professional Opportunist

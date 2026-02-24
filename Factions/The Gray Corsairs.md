@@ -5,6 +5,10 @@ publish: true
 tags:
   - Faction
   - KeyFaction
+description: "Overview of the Gray Corsairs, their reputation, methods, and standing among the flotilla."
+permalink: "/factions/the-gray-corsairs/"
+aliases: []
+date: 2026-02-22
 ---
 
 Where [[The Assembly of Accord]] sees frameworks and [[The Chelish Expeditionary Authority]] sees control, the **Gray Corsairs** see freedom hanging in the balance. Representing the ideals of [Andoran](https://pathfinderwiki.com/wiki/Andoran) and affiliated with the legendary [Steel Falcons](https://pathfinderwiki.com/wiki/Steel_Falcons), they were drawn into this expedition not by opportunity or ambition, but by necessity.

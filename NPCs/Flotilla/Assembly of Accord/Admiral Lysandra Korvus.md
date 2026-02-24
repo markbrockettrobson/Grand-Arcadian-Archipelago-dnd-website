@@ -7,9 +7,16 @@ type: Npc
 ancestry: Human
 class: Fighter
 faction: The Assembly of Accord
+title: "Admiral Lysandra Korvus"
+description: "A player-facing profile of Admiral Lysandra Korvus of the Assembly of Accord."
+permalink: "/npcs/flotilla/assembly-of-accord/admiral-lysandra-korvus/"
+aliases: []
+date: 2026-02-17
 ---
 
 # Admiral Lysandra Korvus
+
+![[../../../../Artwork/NPC/Admiral Lysandra Korvus.png]]
 
 **Ancestry:** Human  
 **Class/Profession:** Fighter (Naval Commander)

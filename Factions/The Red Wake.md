@@ -4,6 +4,10 @@ draft: false
 publish: true
 tags:
   - Faction
+description: "Overview of the Red Wake and its fearsome presence in the contested waters."
+permalink: "/factions/the-red-wake/"
+aliases: []
+date: 2026-02-22
 ---
 
 # The Red Wake

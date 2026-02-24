@@ -5,6 +5,10 @@ publish: true
 tags:
   - Faction
   - KeyFaction
+description: "Profile of the Assembly of Accord, its public goals, structure, and influence within the flotilla."
+permalink: "/factions/the-assembly-of-accord/"
+aliases: []
+date: 2026-02-17
 ---
 
 Where the [[The Hands of the Everlight|Hands of the Everlight]] see a moral imperative demanding immediate action, the Assembly of Accord sees an unprecedented opportunity, a chance to reshape the very foundation of international relations and establish a framework for lasting cooperation that could endure for centuries.

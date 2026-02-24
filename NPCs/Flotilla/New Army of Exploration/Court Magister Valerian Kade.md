@@ -7,9 +7,16 @@ type: npc
 ancestry: Human
 class: Summoner
 faction: The New Army of Exploration
+title: "Court Magister Valerian Kade"
+description: "A player-facing profile of Court Magister Valerian Kade of the New Army of Exploration."
+permalink: "/npcs/flotilla/new-army-of-exploration/court-magister-valerian-kade/"
+aliases: []
+date: 2026-02-22
 ---
 
 # Court Magister Valerian Kade
+
+![[../../../../Artwork/NPC/Court Magister Valerian Kade.png]]
 
 **Ancestry:** Human (Taldan)  
 **Class/Profession:** Summoner (Azlanti Specialist)  
