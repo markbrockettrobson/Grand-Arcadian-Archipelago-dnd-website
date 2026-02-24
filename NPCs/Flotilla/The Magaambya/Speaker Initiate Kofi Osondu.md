@@ -5,7 +5,13 @@ publish: true
 tags:
   - Npc
   - FactionLeader
+description: "A player-facing profile of Speaker Initiate Kofi Osondu of the Magaambya delegation."
+permalink: "/npcs/flotilla/the-magaambya/speaker-initiate-kofi-osondu/"
+aliases: []
+date: 2026-02-22
 ---
+
+![[../../../../Artwork/NPC/Speaker Initiate Kofi Osondu.png]]
 
 **Faction:** [[The Magaambya]]  
 **Role:** Speaker Initiate, Lead Teacher, Delegation Leader  

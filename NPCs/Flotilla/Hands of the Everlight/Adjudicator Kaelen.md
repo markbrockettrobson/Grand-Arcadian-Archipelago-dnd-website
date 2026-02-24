@@ -5,9 +5,16 @@ tags: [Npc]
 type: Npc
 faction: "[[The Hands of the Everlight]]"
 status: alive
+title: "Adjudicator Kaelen"
+description: "A player-facing profile of Adjudicator Kaelen of the Hands of the Everlight."
+permalink: "/npcs/flotilla/hands-of-the-everlight/adjudicator-kaelen/"
+aliases: []
+date: 2026-02-17
 ---
 
 # Adjudicator Kaelen
+
+![[../../../../Artwork/NPC/Adjudicator Kaelen.png]]
 
 **Ancestry:** Half-Elf  
 **Class/Profession:** Cleric of Sarenrae / Diplomat

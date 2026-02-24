@@ -6,6 +6,10 @@ session-number:
 date: {{date}}
 party-level: 1
 location: 
+title: "Session Note"
+description: "Template for recording session summaries, party level, location, and outcomes."
+permalink: "/templates/session-note/"
+aliases: []
 ---
 
 # Session {{value}} - {{title}}

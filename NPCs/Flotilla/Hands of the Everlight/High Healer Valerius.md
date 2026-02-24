@@ -6,9 +6,16 @@ tags:
   - FactionLeader
 type: Npc
 faction: "[[The Hands of the Everlight]]"
+title: "High Healer Valerius"
+description: "A player-facing profile of High Healer Valerius of the Hands of the Everlight."
+permalink: "/npcs/flotilla/hands-of-the-everlight/high-healer-valerius/"
+aliases: []
+date: 2026-02-17
 ---
 
 # High Healer Valerius
+
+![[../../../../Artwork/NPC/High Healer Valerius.png]]
 
 **Ancestry:** Human  
 **Class/Profession:** Cleric of Sarenrae  

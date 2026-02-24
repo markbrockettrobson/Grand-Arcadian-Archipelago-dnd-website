@@ -8,9 +8,16 @@ type: npc
 ancestry: Human
 class: Fighter
 faction: The New Army of Exploration
+title: "Surveyor-General Octavia Rhen"
+description: "A player-facing profile of Surveyor-General Octavia Rhen of the New Army of Exploration."
+permalink: "/npcs/flotilla/new-army-of-exploration/surveyor-general-octavia-rhen/"
+aliases: []
+date: 2026-02-22
 ---
 
 # Surveyor-General Octavia Rhen
+
+![[../../../../Artwork/NPC/Surveyor-General Octavia Rhen.png]]
 
 **Ancestry:** Human (Taldan)  
 **Class/Profession:** Fighter/Military Officer  

@@ -8,9 +8,16 @@ type: npc
 ancestry: Human
 class: Champion
 faction: The Chelish Expeditionary Authority
+title: "Armiger-Magistrate Corvain Thorn"
+description: "A player-facing profile of Armiger-Magistrate Corvain Thorn of the Chelish Expeditionary Authority."
+permalink: "/npcs/flotilla/chelish-expeditionary-authority/armiger-magistrate-corvain-thorn/"
+aliases: []
+date: 2026-02-22
 ---
 
 # Armiger-Magistrate Corvain Thorn
+
+![[../../../../Artwork/NPC/Armiger-Magistrate Corvain Thorn.png]]
 
 **Ancestry:** Human  
 **Class/Profession:** Hellknight (Tyrant Champion of Asmodeus)

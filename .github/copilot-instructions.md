@@ -15,6 +15,7 @@ This repository is an **Obsidian vault** for tracking a home tabletop RPG campai
 When providing assistance in this repository:
 
 ### 1. Game System Knowledge
+
 - This campaign uses **Pathfinder 2nd Edition** rules
 - Reference PF2e mechanics, not D&D 5e or other systems
 - Understand PF2e terminology: ancestries (not races), three-action economy, degrees of success, etc.
@@ -22,6 +23,7 @@ When providing assistance in this repository:
 - Familiarity with Archives of Nethys as the official reference
 
 ### 2. Obsidian Markdown Format
+
 - Files use Obsidian-flavored markdown
 - Wiki-style links: `[[Page Name]]` or `[[Folder/Page Name]]`
 - Links to specific sections: `[[Page Name#Section]]`
@@ -29,7 +31,9 @@ When providing assistance in this repository:
 - Maintain consistent formatting across similar document types
 
 ### 3. Campaign Structure
+
 The vault is organized as follows:
+
 - **Home.md** - Campaign homepage with quick links
 - **Campaign Info.md** - Meta information and house rules
 - **Party Roster/** - Player character overview
@@ -38,7 +42,7 @@ The vault is organized as follows:
 - **Locations/** - Places in the game world
 - **Quests/** - Quest tracking and details
 - **Items & Loot.md** - Treasure and equipment
-- **World Lore/**** - Setting information
+- **World Lore/\*\*** - Setting information
 - **DM Notes.md** - Game master secrets
 
 ### 4. Content Guidelines & Perspective
@@ -48,6 +52,7 @@ The vault is organized as follows:
 All content in non-encrypted files should be written from the **player's perspective** - what the characters would observe, hear, or reasonably deduce through play. This is a player-facing vault, not a GM's secret notes.
 
 **Write from player knowledge:**
+
 - What characters can observe directly (appearance, public behavior, visible actions)
 - What they hear through rumors, public statements, or conversation
 - What they can reasonably infer from patterns of behavior
@@ -55,6 +60,7 @@ All content in non-encrypted files should be written from the **player's perspec
 - Information learned through investigation or interaction
 
 **Do NOT write:**
+
 - Hidden motives presented as fact
 - Secret plans characters haven't discovered
 - Internal thoughts of NPCs
@@ -68,6 +74,7 @@ All content in non-encrypted files should be written from the **player's perspec
 **Write:** "Lord Voss appears frustrated when factions exploit his procedural frameworks."
 
 **For true secrets:**
+
 - Use encrypted `.mdenc` files (e.g., `NPC Secrets.mdenc`, `GM TODO.mdenc`)
 - Or create clearly marked `## GM Notes` or `## Secrets` sections at the end of files
 - These sections can use omniscient perspective for GM reference
@@ -75,10 +82,12 @@ All content in non-encrypted files should be written from the **player's perspec
 ### 5. Pathfinder 2e Specific Assistance
 
 When helping with PF2e content:
-- Use proper action economy notation (◆ Action 
-◇ Free action, ↩ Reaction)
+
+- Use proper action economy notation (◆ Action
+  ◇ Free action, ↩ Reaction)
 
 ### 6. Linking Best Practices
+
 - Always create bidirectional links where appropriate
 - Link NPCs to their locations, factions,
 - Link quests to quest givers, locations, and sessions
@@ -88,6 +97,7 @@ When helping with PF2e content:
 ## Do's and Don'ts
 
 **DO:**
+
 - Use Pathfinder 2e rules and terminology
 - Maintain Obsidian linking structure
 - Keep player vs DM information separate
@@ -95,6 +105,7 @@ When helping with PF2e content:
 - Create rich, interconnected notes
 
 **DON'T:**
+
 - Use D&D 5e or other system mechanics
 - Break existing link structures
 - Mix player knowledge with DM secrets inappropriately
@@ -112,3 +123,12 @@ When helping with PF2e content:
 - Focus on exploration and discovery
 
 ---
+
+when asked to generate image prompts, use the following following prompt structure with gemini-cli
+
+You said
+please make artwork for my DND Npc
+
+Art Style: Digital oil painting in the style of Magic: The Gathering card art. Dramatic cinematic lighting, high contrast, sharp focus on the face, epic scale, intricate textures, vibrant but grounded color palette. --ar 3:2
+
+Description

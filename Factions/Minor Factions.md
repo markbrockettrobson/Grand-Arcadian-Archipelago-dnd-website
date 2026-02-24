@@ -4,6 +4,10 @@ draft: false
 publish: true
 tags:
   - Faction
+description: "A collection of smaller groups and local powers encountered across the Arcadian Archipelago."
+permalink: "/factions/minor-factions/"
+aliases: []
+date: 2026-02-22
 ---
 
 # Minor Factions of the Flotilla

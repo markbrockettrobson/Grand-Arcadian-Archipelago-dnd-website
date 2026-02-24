@@ -5,6 +5,10 @@ publish: true
 tags:
   - Faction
   - KeyFaction
+description: "Overview of the Hands of the Everlight, their charitable mission, and growing influence."
+permalink: "/factions/the-hands-of-the-everlight/"
+aliases: []
+date: 2026-02-17
 ---
 
 Driven by a collective, searing vision of an Arcadian plague, an unknown "fever that turns the blood to ash" this sect of [[https://2e.aonprd.com/Deities.aspx?ID=292&Redirected=1|Sarenrae]]’s faithful didn't just join the flotilla, they ignited it. It was their zeal that secured the initial funding and shamed skilled captains into braving the treacherous crossing to the Western Continent.

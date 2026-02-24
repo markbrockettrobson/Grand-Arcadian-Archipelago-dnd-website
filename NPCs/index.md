@@ -4,6 +4,10 @@ draft: false
 publish: true
 tags:
   - Npc
+description: "Index of known NPCs encountered during the Arcadian Archipelago campaign."
+permalink: "/npcs/"
+aliases: []
+date: 2026-02-22
 ---
 
 # Non-Player Characters

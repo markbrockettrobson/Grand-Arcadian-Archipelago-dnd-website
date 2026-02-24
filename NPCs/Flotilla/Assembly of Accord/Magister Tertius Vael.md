@@ -7,9 +7,16 @@ type: Npc
 ancestry: Human
 class: Wizard
 faction: The Assembly of Accord
+title: "Magister Tertius Vael"
+description: "A player-facing profile of Magister Tertius Vael of the Assembly of Accord."
+permalink: "/npcs/flotilla/assembly-of-accord/magister-tertius-vael/"
+aliases: []
+date: 2026-02-17
 ---
 
 # Magister Tertius Vael
+
+![[../../../../Artwork/NPC/Magister Tertius Vael.png]]
 
 **Ancestry:** Human (Azlanti heritage)  
 **Class/Profession:** Wizard (Arcane Researcher)

@@ -4,6 +4,10 @@ draft: false
 publish: true
 tags:
   - Faction
+description: "Overview of the major and minor factions active across the Arcadian Archipelago flotilla."
+permalink: "/factions/"
+aliases: []
+date: 2026-02-22
 ---
 
 # Factions of the Flotilla

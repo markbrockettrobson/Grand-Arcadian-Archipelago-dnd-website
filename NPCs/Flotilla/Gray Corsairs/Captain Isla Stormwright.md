@@ -5,7 +5,13 @@ publish: true
 tags:
   - Npc
   - FactionLeader
+description: "A player-facing profile of Captain Isla Stormwright of the Gray Corsairs."
+permalink: "/npcs/flotilla/gray-corsairs/captain-isla-stormwright/"
+aliases: []
+date: 2026-02-22
 ---
+
+![[../../../../Artwork/NPC/Captain Isla Stormwright.png]]
 
 **Faction:** [[The Gray Corsairs]]  
 **Role:** Commander, Steel Falcon Veteran, Freedom Fighter
