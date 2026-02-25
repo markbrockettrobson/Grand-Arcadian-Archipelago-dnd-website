@@ -12,7 +12,7 @@ date: 2026-02-22
 
 # Bastian Vale
 
-![[../../../../Artwork/NPC/Bastian Vale.png]]
+![[../../../../Artwork/NPC/Bastian-Vale.png]]
 
 **Faction:** [[The Red Wake]]  
 **Role:** First Mate, Bard, Professional Chronicler
