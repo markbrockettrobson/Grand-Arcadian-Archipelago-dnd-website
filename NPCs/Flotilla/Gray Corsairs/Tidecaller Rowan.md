@@ -11,7 +11,7 @@ aliases: []
 date: 2026-02-22
 ---
 
-![[../../../../Artwork/NPC/Tidecaller-Rowan.png]]
+![[Tidecaller-Rowan.png]]
 
 **Tidecaller Rowan** is a powerful druid affiliated with [[The Gray Corsairs]], whose command over wind, wave, and weather has become one of the flotilla's most valuable assets. Unlike the fiery passion of [[NPCs/Flotilla/Gray Corsairs/Captain Isla Stormwright|Captain Isla Stormwright]], Rowan brings a quiet, contemplative presence a calm at the center of the storm.
 

@@ -16,7 +16,7 @@ date: 2026-02-17
 
 # Admiral Lysandra Korvus
 
-![[../../../../Artwork/NPC/Admiral-Lysandra-Korvus.png]]
+![[Admiral-Lysandra-Korvus.png]]
 
 **Ancestry:** Human  
 **Class/Profession:** Fighter (Naval Commander)

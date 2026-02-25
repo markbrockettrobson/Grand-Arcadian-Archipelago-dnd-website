@@ -14,7 +14,7 @@ date: 2026-02-17
 
 # Adjudicator Kaelen
 
-![[../../../../Artwork/NPC/Adjudicator-Kaelen.png]]
+![[Adjudicator-Kaelen.png]]
 
 **Ancestry:** Half-Elf  
 **Class/Profession:** Cleric of Sarenrae / Diplomat
