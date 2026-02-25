@@ -1,19 +1,35 @@
-import { PageLayout, SharedLayout } from "./quartz/cfg"
-import * as Component from "./quartz/components"
+import { PageLayout, SharedLayout } from "./quartz/cfg";
+import * as Component from "./quartz/components";
+
+const comments = Component.Comments({
+  provider: "giscus",
+  options: {
+    repo: "markbrockettrobson/Grand-Arcadian-Archipelago-dnd-website",
+    repoId: "R_kgDORP74XA",
+    category: "Giscus",
+    categoryId: "General",
+    mapping: "pathname",
+    strict: false,
+    reactionsEnabled: true,
+    inputPosition: "bottom",
+    lang: "en",
+  },
+});
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [comments],
   footer: Component.Footer({
     links: {
-      "Campaign Home": "https://github.com/markbrockettrobson/Grand-Arcadian-Archipelago-dnd-website",
+      "Campaign Home":
+        "https://github.com/markbrockettrobson/Grand-Arcadian-Archipelago-dnd-website",
       "Pathfinder 2e": "https://2e.aonprd.com/",
       "Powered by Quartz": "https://quartz.jzhao.xyz/",
     },
   }),
-}
+};
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
@@ -55,11 +71,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
-}
+};
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -77,4 +97,4 @@ export const defaultListPageLayout: PageLayout = {
     }),
   ],
   right: [],
-}
+};
