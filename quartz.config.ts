@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "YOUR-USERNAME.github.io/Grand-Arcadian-Archipelago-dnd-website",
+    baseUrl: "markbrockettrobson.github.io/Grand-Arcadian-Archipelago-dnd-website",
     ignorePatterns: [
       "private",
       "templates",
