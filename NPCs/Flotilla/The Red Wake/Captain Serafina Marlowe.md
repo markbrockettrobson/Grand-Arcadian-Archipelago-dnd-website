@@ -13,7 +13,7 @@ date: 2026-02-22
 
 # Captain Serafina "Red Wake" Marlowe
 
-![[../../../../Artwork/NPC/Captain-Serafina-Marlowe.png]]
+![[Captain-Serafina-Marlowe.png]]
 
 **Faction:** [[The Red Wake]]  
 **Role:** Captain, Legendary Pilot, Professional Opportunist

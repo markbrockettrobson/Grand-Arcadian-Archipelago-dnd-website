@@ -11,7 +11,7 @@ aliases: []
 date: 2026-02-22
 ---
 
-![[../../../../Artwork/NPC/Speaker-Initiate-Kofi-Osondu.png]]
+![[Speaker-Initiate-Kofi-Osondu.png]]
 
 **Faction:** [[The Magaambya]]  
 **Role:** Speaker Initiate, Lead Teacher, Delegation Leader  

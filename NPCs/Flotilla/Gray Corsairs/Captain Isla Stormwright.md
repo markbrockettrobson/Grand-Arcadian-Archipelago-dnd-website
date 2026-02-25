@@ -11,7 +11,7 @@ aliases: []
 date: 2026-02-22
 ---
 
-![[../../../../Artwork/NPC/Captain-Isla-Stormwright.png]]
+![[Captain-Isla-Stormwright.png]]
 
 **Faction:** [[The Gray Corsairs]]  
 **Role:** Commander, Steel Falcon Veteran, Freedom Fighter

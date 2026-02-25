@@ -15,7 +15,7 @@ date: 2026-02-17
 
 # High Healer Valerius
 
-![[../../../../Artwork/NPC/High-Healer-Valerius.png]]
+![[High-Healer-Valerius.png]]
 
 **Ancestry:** Human  
 **Class/Profession:** Cleric of Sarenrae  

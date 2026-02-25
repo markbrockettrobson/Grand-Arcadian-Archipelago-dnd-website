@@ -14,7 +14,7 @@ date: 2026-02-17
 
 # Champion Elara
 
-![[../../../../Artwork/NPC/Champion-Elara.png]]
+![[Champion-Elara.png]]
 
 **Ancestry:** Human  
 **Class/Profession:** Champion of Sarenrae
