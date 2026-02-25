@@ -50,6 +50,12 @@ A traveling troupe of artists, performers, and dreamers devoted to [Desna](https
 
 ## Commercial & Craft Guilds
 
+### The Shipwrights' Coalition of Shared Keels
+
+Formed from independent dockyards, sailmakers, and carpenters from Absalom, Andoran, and Ravounel, the Shipwrights' Coalition exists for one practical reason: the flotilla cannot survive long-term without constant hull repair, mast replacement, and disciplined maintenance. They present themselves as politically neutral craftspeople, but their control over priority repairs gives them quiet leverage over nearly every major faction. A captain who insults the Coalition may discover their vessel waiting a very long time for repairs, while captains who treat the workers fairly tend to find miracle fixes completed overnight.
+
+Their best-known subdivision is the ropewright chapter, commonly called the Rope Weavers, whose master planner is an [Anadi](https://2e.aonprd.com/Ancestries.aspx?ID=42) artisan named Ssilka.
+
 ### The Bounty Hunters' Ledger
 
 One might wonder what need a diplomatic expedition has for a guild of bounty hunters, but the [Bounty Hunters' Ledger](https://pathfinderwiki.com/wiki/Bounty_Hunters%27_Ledger) made a compelling case: with hundreds of ships, thousands of crew, and minimal law enforcement, someone needs to handle fugitives, deserters, and criminals. Operating under contract to [[The Assembly of Accord]]'s Temporary Courts of Admiralty, these professional trackers serve as the flotilla's de facto police force. They're surprisingly effective at their work, which has earned them grudging respect even from those who philosophically object to their methods. The [[The Gray Corsairs|Gray Corsairs]] watch them carefully, ensuring they're not used to recapture escaped slaves or political refugees, while [[The Chelish Expeditionary Authority]] has attempted (unsuccessfully) to hire them for "special assignments" outside their official contract.
