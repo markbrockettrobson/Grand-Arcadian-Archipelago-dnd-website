@@ -35,7 +35,7 @@ When providing assistance in this repository:
 The vault is organized as follows:
 
 - **Home.md** - Campaign homepage with quick links
-- **Campaign Info.md** - Meta information and house rules
+- **World Lore/Campaign Overview.md** - Player-facing campaign overview
 - **Party Roster/** - Player character overview
 - **Session Notes/** - Session recaps and planning
 - **NPCs/** - Non-player character profiles

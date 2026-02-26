@@ -15,17 +15,19 @@ date: 2026-02-22
 
 For decades, the Arcadian Archipelago existed as little more than sailor's legend a distant chain of islands shrouded in treacherous seas and navigational hazards that claimed ships with ruthless regularity. But over the past ten years, something changed. Individual reports of successful passages, once dismissed as luck or exaggeration, began to accumulate. Semi-successful expeditions turned into increasingly common navigational victories. Sea routes that seemed impossible one season became merely challenging the next.
 
+During this same period, sailors and arcanists increasingly reported a distinct magical interference effect in the region that disrupts long-range teleportation and communication (see [[World Lore/Arcadian Interference Phenomenon]]).
+
 The most notable evidence of this shift came from [[NPCs/Flotilla/The Red Wake/Captain Serafina Marlowe|Captain Serafina Marlowe]], the infamous "Red Wake," who successfully navigated the Arcadian seas not once, but three times over the past decade each journey returning with plunder, detailed charts, and proof that the passage, while still treacherous, had become survivable for skilled navigators. Her exploits transformed the Archipelago from a death sentence into a calculated risk, and her willingness to sell her expertise to the highest bidder signaled to the great powers that the window of opportunity was opening.
 
 The archipelago, with its ancient ruins and untapped resources, remained dangerous to reach but no longer impossibly so.
 
 ## Wealth Waiting to Be Claimed
 
-The islands themselves represent extraordinary opportunity. Ancient Arcadian ruins dot the landscape, promising magical artifacts, lost knowledge, and the architectural wealth of a vanished civilization. Rich natural resources exotic hardwoods, rare minerals, sheltered deepwater harbors lie ready for exploitation. For years, nations could afford to view this wealth as interesting but irrelevant, forever locked behind seas too dangerous to justify the risk. But as successful expeditions became more frequent, that calculation shifted. What was once impossibly far became merely challenging. Difficult to acquire, certainly, but no longer near impossible. The risk 2 reward ratio had changed.
+The islands themselves represent extraordinary opportunity. Ancient Arcadian ruins dot the landscape, promising magical artifacts, lost knowledge, and the architectural wealth of a vanished civilization. Rich natural resources exotic hardwoods, rare minerals, sheltered deepwater harbors lie ready for exploitation. For years, nations could afford to view this wealth as interesting but irrelevant, forever locked behind seas too dangerous to justify the risk. But as successful expeditions became more frequent, that calculation shifted.
 
 ## The Collective Vision: A Synchronization Point
 
-Then, six months ago, [[The Hands of the Everlight]] received their collective vision of plague ravaging the Archipelago that demanded immediate action. While the humanitarian crisis captured public attention and provided the moral impetus for the great flotilla, the visions served a more subtle geopolitical function, they synchronized international awareness. It was as if every nation woke up at the same moment and realized the same truth: the wealth of the Archipelago was no longer a distant fantasy but a tangible opportunity just beyond the horizon. The visions didn't just reveal suffering. The moment had arrived and everyone knew that they could act now or risk being left behind.
+Then, six months ago, [[The Hands of the Everlight]] received their collective vision of plague ravaging the Archipelago that demanded immediate action. While the humanitarian crisis captured public attention and provided the moral impetus for the great flotilla, the visions served a more subtle geopolitical function, they synchronized international awareness. It was as if every nation woke up at the same moment and realized the same truth: the wealth of the Archipelago was no longer a distant fantasy but a tangible opportunity just beyond the horizon. The moment had arrived and everyone knew that they could act now or risk being left behind.
 
 ## The Geopolitical Scramble
 
