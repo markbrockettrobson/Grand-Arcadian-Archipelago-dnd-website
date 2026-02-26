@@ -18,7 +18,7 @@ Welcome to the campaign vault for **The Arcadian Archipelago**, a Pathfinder 2nd
 
 ### Campaign Information
 
-- [[Campaign Info|Campaign Details & House Rules]]
+- [[World Lore/Campaign Overview|Campaign Overview (Lore)]]
 
 ### World Lore
 
@@ -30,6 +30,12 @@ Welcome to the campaign vault for **The Arcadian Archipelago**, a Pathfinder 2nd
 - [[Factions/The Chelish Expeditionary Authority|The Chelish Expeditionary Authority]]
 - [[Factions/The Gray Corsairs|The Gray Corsairs]]
 - [[Factions/The Hands of the Everlight|The Hands of the Everlight]]
+- [[Factions/The Magaambya|The Magaambya]]
+- [[Factions/The New Army of Exploration|The New Army of Exploration]]
 - [[Factions/The Red Wake|The Red Wake]]
+
+### Rules
+
+- [[Rules/PC Rules|PC Rules]]
 
 ---
