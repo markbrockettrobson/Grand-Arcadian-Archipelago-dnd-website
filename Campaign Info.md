@@ -38,6 +38,30 @@ Now the fleet has finally set sail, carrying not just supplies and healers, but 
 
 ---
 
+## Ancestries & Technology
+
+### Allowed Ancestries
+
+The campaign aims to keep a semi-serious tone. It is genuinely difficult to build a believable world with consistent NPC reactions when the party includes something like a living loaf of bread wielding Mage Hand — so please bear that in mind when choosing your ancestry.
+
+| Rarity | Status |
+|--------|--------|
+| **Common** | ✅ Allowed |
+| **Uncommon** | ✅ Allowed (no prior approval needed) |
+| **Rare — Undead** | ❌ Not allowed |
+| **Rare — Construct** | ❌ Not allowed |
+| **Other Rare** | Talk to the GM |
+
+### Technology & Sci-Fi
+
+This is a fantasy campaign — **no sci-fi technology**. Specifically:
+
+- **No laser guns, energy weapons, or futuristic equipment.**
+- **Early firearms only** (flintlock-era). Reskins are available if you want a different aesthetic — just ask.
+- **Android** ([Archives of Nethys](https://2e.aonprd.com/Ancestries.aspx?ID=27)): the mechanics are interesting but the aesthetic doesn't fit. If you like what Android does mechanically, bring it up and we can work out a reskin together.
+
+---
+
 ## House Rules
 
 ### Pathfinder 2e Modifications
@@ -66,7 +90,7 @@ Now the fleet has finally set sail, carrying not just supplies and healers, but 
 
 - Starting Level: 1
 - Ability Score Generation:
-- Allowed Ancestries:
+- Allowed Ancestries: See [[Campaign Info#Ancestries & Technology]]
 - Allowed Classes:
 - Background Requirements:
 
