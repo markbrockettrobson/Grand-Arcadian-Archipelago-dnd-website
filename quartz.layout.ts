@@ -7,7 +7,9 @@ const comments = Component.Comments({
     repo: "markbrockettrobson/Grand-Arcadian-Archipelago-dnd-website",
     repoId: "R_kgDORP74XA",
     category: "Giscus",
-    categoryId: "General",
+    // TODO: Replace with the actual category ID from https://giscus.app
+    // Select this repo and the "Giscus" category to get the correct DIC_kwDO... value.
+    categoryId: "DIC_kwDORP74XM4XXXXX",
     mapping: "pathname",
     strict: false,
     reactionsEnabled: true,
