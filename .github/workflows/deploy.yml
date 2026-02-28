@@ -10,6 +10,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  discussions: read
 
 concurrency:
   group: "pages"
@@ -32,6 +33,33 @@ jobs:
           git clone https://github.com/jackyzha0/quartz.git .quartz
           cd .quartz
           npm install
+
+      - name: Resolve giscus category ID
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GISCUS_CATEGORY: "Giscus"
+        run: |
+          REPO_OWNER="${{ github.repository_owner }}"
+          REPO_NAME="${{ github.event.repository.name }}"
+          RESPONSE=$(curl -s \
+            -H "Authorization: bearer $GH_TOKEN" \
+            -H "Content-Type: application/json" \
+            -X POST https://api.github.com/graphql \
+            -d "{\"query\":\"{ repository(owner: \\\"$REPO_OWNER\\\", name: \\\"$REPO_NAME\\\") { discussionCategories(first: 100) { nodes { id name } } } }\"}")
+          CATEGORY_ID=$(echo "$RESPONSE" | python3 -c "
+import sys, json, os
+data = json.load(sys.stdin)
+cats = data.get('data', {}).get('repository', {}).get('discussionCategories', {}).get('nodes', [])
+category = os.environ['GISCUS_CATEGORY']
+match = next((c['id'] for c in cats if c['name'] == category), None)
+print(match or '')
+")
+          if [ -n "$CATEGORY_ID" ]; then
+            sed -i "s|categoryId: \"[^\"]*\"|categoryId: \"$CATEGORY_ID\"|" quartz.layout.ts
+            echo "Resolved giscus categoryId: $CATEGORY_ID"
+          else
+            echo "Warning: '$GISCUS_CATEGORY' discussion category not found. Check that GitHub Discussions is enabled and the '$GISCUS_CATEGORY' category exists."
+          fi
 
       - name: Copy config files
         run: |

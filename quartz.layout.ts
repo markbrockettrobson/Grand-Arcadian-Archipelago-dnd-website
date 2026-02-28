@@ -7,8 +7,8 @@ const comments = Component.Comments({
     repo: "markbrockettrobson/Grand-Arcadian-Archipelago-dnd-website",
     repoId: "R_kgDORP74XA",
     category: "Giscus",
-    // TODO: Replace with the actual category ID from https://giscus.app
-    // Select this repo and the "Giscus" category to get the correct DIC_kwDO... value.
+    // This placeholder is replaced at build time by the "Resolve giscus category ID" step
+    // in deploy.yml, which queries the GitHub GraphQL API for the real DIC_kwDO... value.
     categoryId: "DIC_kwDORP74XM4XXXXX",
     mapping: "pathname",
     strict: false,
