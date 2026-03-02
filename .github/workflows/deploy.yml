@@ -58,7 +58,9 @@ print(match or '')
             sed -i "s|categoryId: \"[^\"]*\"|categoryId: \"$CATEGORY_ID\"|" quartz.layout.ts
             echo "Resolved giscus categoryId: $CATEGORY_ID"
           else
-            echo "Warning: '$GISCUS_CATEGORY' discussion category not found. Check that GitHub Discussions is enabled and the '$GISCUS_CATEGORY' category exists."
+            echo "Error: '$GISCUS_CATEGORY' discussion category not found."
+            echo "To fix: enable GitHub Discussions on this repo, install the giscus GitHub App, and create a Discussion category named '$GISCUS_CATEGORY'."
+            exit 1
           fi
 
       - name: Copy config files
