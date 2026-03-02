@@ -23,6 +23,7 @@ Welcome to the campaign vault for **The Arcadian Archipelago**, a Pathfinder 2nd
 ### World Lore
 
 - [[World Lore/The Opening of the Archipelago|The Opening of the Archipelago]]
+- [[World Lore/Timeline - Lead-Up to the Expedition|Timeline: Lead-Up to the Expedition]]
 
 ### Factions
 

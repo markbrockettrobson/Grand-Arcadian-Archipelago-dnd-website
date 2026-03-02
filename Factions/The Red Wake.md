@@ -18,6 +18,14 @@ Most of the reputable factions treat her with open disdain. [[The Hands of the E
 
 Captain Marlowe has successfully piloted her ship through the Arcadian seas **three times**, each expedition bringing back plunder and tales of danger that proved both the challenges and the opportunities of the islands. No captain currently in the Inner Sea can claim a comparable record. Her knowledge of the treacherous currents, hidden reefs, and navigable passages is demonstrably irreplaceable. The Assembly knows this. Lord Voss knows this. And Captain Marlowe's negotiating position suggests she knows they know.
 
+### The Three Arcadian Crossings (Public Accounts)
+
+- **First crossing:** Most dock records attribute command to **Captain Blackblood**, with Serafina Marlowe serving as first mate.
+- **Second crossing:** Blackblood is again listed as captain at departure, but sailors claim he died during the voyage; surviving logs return under Marlowe's authority.
+- **Third crossing:** Marlowe commands outright, and this is the voyage most often credited with cementing her reputation as the flotilla's most experienced Arcadian pilot.
+
+Rumors surrounding these crossings also overlap with whispers of a quiet market in Arcadian curios appearing through hard-to-trace brokers, though no faction has produced publicly verifiable trade ledgers.
+
 She is being paid very well for offering her "advisory services" to the flotilla rumors suggest her compensation would make most merchant houses blanch. She seldom uses her seat at the council table, often appearing bored during lengthy procedural debates. Why waste time arguing over territorial frameworks when you're being compensated handsomely just to show up? While [[NPCs/Flotilla/Assembly of Accord/Lord Arbitrator Hadrian Voss|Lord Arbitrator Hadrian Voss]] works to craft his legacy through bureaucratic frameworks, Marlowe appears focused on simpler priorities: get paid, survive, and ensure the stories spread.
 
 Speaking of which, her first mate is exactly that **[[NPCs/Flotilla/The Red Wake/Bastian Vale|Bastian Vale]]**, a bard whose sole responsibility is chronicling Captain Marlowe's exploits in increasingly dramatic verse. The rest of the council finds this absurd. Marlowe finds it essential branding.

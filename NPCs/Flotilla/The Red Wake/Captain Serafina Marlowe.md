@@ -26,6 +26,8 @@ Captain Serafina Marlowe, known throughout the Inner Sea as the "Red Wake," is a
 
 She is the only known living captain to have successfully navigated the Arcadian seas **three times**, each expedition returning with plunder and, more importantly, with detailed knowledge of the treacherous passages, hidden reefs, and navigable routes. This makes her quite possibly the most valuable single individual in the entire flotilla a fact she appears well aware of, if her negotiating position is any indication. Her compensation from the Assembly reflects this reality.
 
+Public shipping gossip usually frames Marlowe's rise in three chapters: first mate under Captain Blackblood on the first crossing, first mate again on the second crossing, and then captain in her own right after Blackblood's reported death during that second voyage. By the third crossing, even her critics generally referred to the ship as unquestionably hers.
+
 ---
 
 ## Appearance

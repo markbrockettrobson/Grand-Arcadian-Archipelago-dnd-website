@@ -27,3 +27,7 @@ Now the fleet has finally set sail, carrying not just supplies and healers, but 
 - **[[World Lore/The Opening of the Archipelago]]**: The gradual shift in accessibility and the collective visions that triggered the international scramble for territorial claims.
 - **The Assembly of the Flotilla**: Six months of tense negotiations and bureaucratic procedures leading to the current expedition.
 - **[[World Lore/Arcadian Interference Phenomenon]]**: A known magical effect that disrupts long-range teleportation and communication.
+
+## Timelines
+
+- **[[World Lore/Timeline - Lead-Up to the Expedition]]**: Timeline of events leading up to the expedition launch.

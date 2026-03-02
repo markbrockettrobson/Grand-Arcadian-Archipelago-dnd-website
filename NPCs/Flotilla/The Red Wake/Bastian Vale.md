@@ -26,4 +26,6 @@ Bastian Vale serves as first mate aboard _The Red Wake_. His primary responsibil
 
 To outsiders, especially the more serious-minded members of the [[The Assembly of Accord|Assembly of Accord]], this seems absurd hiring a bard as first mate solely to write songs about the captain. Captain Marlowe, however, has stated publicly that it's \"essential business strategy.\" Reputation commands higher fees, and Bastian is, by all accounts, very good at building reputations.
 
+Several of Bastian's most requested ballads recount the second Arcadian crossing associated with Captain Blackblood's death and Marlowe's assumption of command. The details vary between performances, but the recurring theme is clear: the crew only made port because someone took control quickly, and Bastian wants listeners to believe that someone was Marlowe.
+
 ---
